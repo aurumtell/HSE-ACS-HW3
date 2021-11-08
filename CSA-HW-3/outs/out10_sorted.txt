@@ -1,0 +1,12 @@
+Container is store 10 languages:
+Cartoon: name = DODRZcEUKT  year = 1956  legacy = PUPPET, calculation = 195.6
+Fiction: name = vxaQRYYJVm  year = 1974  director = EcGmc , quotient = 197.4
+Fiction: name = OrhVEJOUh  year = 1971  director = kBznzJnCX , quotient = 219.0
+Documentary: name = DjMIxmeG  year = 1959  duration = 61 , calculation = 244.88
+Fiction: name = zjNvMAau  year = 1995  director = lXeiQfb , quotient = 249.38
+Cartoon: name = IcFBDFm  year = 1972  legacy = DRAW, calculation = 281.71
+Cartoon: name = ucnfAn  year = 1999  legacy = PLASTICINE, calculation = 333.17
+Fiction: name = pDbZcI  year = 2018  director = EdTwIGikv , quotient = 336.33
+Cartoon: name = dhUlT  year = 1978  legacy = DRAW, calculation = 395.6
+Fiction: name = EmcrC  year = 2004  director = cfPRJY , quotient = 400.8
+

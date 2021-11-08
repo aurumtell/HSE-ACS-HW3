@@ -1,0 +1,1002 @@
+Container is store 1000 languages:
+Fiction: name = HEeCvPwZfH  year = 1945  director = JijGRg , quotient = 194.5
+Cartoon: name = aDzBrUAIAI  year = 1945  legacy = PUPPET, calculation = 194.5
+Documentary: name = LTOkMlHRWU  year = 1945  duration = 9 , calculation = 194.5
+Cartoon: name = QYvkauJJzQ  year = 1946  legacy = PUPPET, calculation = 194.6
+Documentary: name = NnZLvOxEdz  year = 1946  duration = 9 , calculation = 194.6
+Cartoon: name = XAoDvlfgpO  year = 1946  legacy = DRAW, calculation = 194.6
+Cartoon: name = UHsujNTJXH  year = 1946  legacy = DRAW, calculation = 194.6
+Cartoon: name = heIPHAkKqA  year = 1946  legacy = PUPPET, calculation = 194.6
+Documentary: name = LjKWCQMKZd  year = 1948  duration = 99 , calculation = 194.8
+Cartoon: name = iLvwVedkxv  year = 1949  legacy = PLASTICINE, calculation = 194.9
+Cartoon: name = ApnDoFOkcg  year = 1949  legacy = DRAW, calculation = 194.9
+Cartoon: name = sCNYCaLBOt  year = 1949  legacy = DRAW, calculation = 194.9
+Cartoon: name = NOSLalfIih  year = 1950  legacy = DRAW, calculation = 195.0
+Documentary: name = WiKsAEJFHe  year = 1950  duration = 66 , calculation = 195.0
+Cartoon: name = xZstTQWLIj  year = 1952  legacy = DRAW, calculation = 195.2
+Cartoon: name = diCLWJNqLC  year = 1952  legacy = PUPPET, calculation = 195.2
+Documentary: name = QejVQatZxR  year = 1953  duration = 60 , calculation = 195.3
+Cartoon: name = JhzMGDHOro  year = 1955  legacy = DRAW, calculation = 195.5
+Cartoon: name = AkkMLfVsmg  year = 1955  legacy = PLASTICINE, calculation = 195.5
+Cartoon: name = XXXECyxKoj  year = 1955  legacy = PUPPET, calculation = 195.5
+Cartoon: name = ybEyrBxLLT  year = 1955  legacy = PLASTICINE, calculation = 195.5
+Documentary: name = sNyKHtlNqQ  year = 1956  duration = 57 , calculation = 195.6
+Fiction: name = bgpDzGaRch  year = 1957  director = iUAvmQQi , quotient = 195.7
+Cartoon: name = YtvaQzoQtq  year = 1957  legacy = PLASTICINE, calculation = 195.7
+Cartoon: name = MdUwDdlHVZ  year = 1959  legacy = DRAW, calculation = 195.9
+Cartoon: name = misAMbfcNx  year = 1961  legacy = DRAW, calculation = 196.1
+Fiction: name = nxFXMgLdYW  year = 1961  director = dKJAxTuDIf , quotient = 196.1
+Documentary: name = kDLsNOHoTI  year = 1961  duration = 23 , calculation = 196.1
+Documentary: name = kwzBymFGfL  year = 1961  duration = 51 , calculation = 196.1
+Documentary: name = OGrvCWvzbr  year = 1963  duration = 99 , calculation = 196.3
+Cartoon: name = rzHkAnRAaG  year = 1963  legacy = PLASTICINE, calculation = 196.3
+Cartoon: name = VyjnUQWUgW  year = 1964  legacy = PUPPET, calculation = 196.4
+Cartoon: name = dyhNWhQZYa  year = 1964  legacy = DRAW, calculation = 196.4
+Fiction: name = LraQbHAzTw  year = 1964  director = KvdTSzNVvi , quotient = 196.4
+Documentary: name = vzvUlMbJOv  year = 1964  duration = 96 , calculation = 196.4
+Documentary: name = tEGNZGWyMp  year = 1965  duration = 79 , calculation = 196.5
+Fiction: name = weznqcCZml  year = 1966  director = NbbwqMNl , quotient = 196.6
+Documentary: name = tMCEibYjIL  year = 1966  duration = 63 , calculation = 196.6
+Documentary: name = yRAPgPaAix  year = 1966  duration = 47 , calculation = 196.6
+Cartoon: name = FIaLPcRpkc  year = 1966  legacy = DRAW, calculation = 196.6
+Documentary: name = HWaDkjXWzY  year = 1968  duration = 89 , calculation = 196.8
+Cartoon: name = klEHfaaAOx  year = 1968  legacy = DRAW, calculation = 196.8
+Fiction: name = FAHrWlaWXc  year = 1969  director = SuIBAknNTm , quotient = 196.9
+Fiction: name = PHfDvnbPBu  year = 1969  director = nOEJOIe , quotient = 196.9
+Documentary: name = VyvegDkUSa  year = 1969  duration = 93 , calculation = 196.9
+Fiction: name = RRyZtOrzha  year = 1969  director = swYCyC , quotient = 196.9
+Cartoon: name = TcyRAtpqlR  year = 1969  legacy = PLASTICINE, calculation = 196.9
+Fiction: name = fVbmBStefc  year = 1970  director = mxYbvPQNmt , quotient = 197.0
+Documentary: name = aTWpJgsGrW  year = 1970  duration = 35 , calculation = 197.0
+Fiction: name = SoXhUYQfoF  year = 1970  director = DhSrsd , quotient = 197.0
+Fiction: name = TMSBuFycGo  year = 1970  director = USaOFFhFK , quotient = 197.0
+Cartoon: name = kGlZwNooyt  year = 1971  legacy = DRAW, calculation = 197.1
+Documentary: name = QxPEIBdoJc  year = 1971  duration = 25 , calculation = 197.1
+Cartoon: name = jniNFTdBIJ  year = 1971  legacy = PUPPET, calculation = 197.1
+Documentary: name = MsdayNqHrn  year = 1972  duration = 99 , calculation = 197.2
+Fiction: name = BjGxjaJPxX  year = 1972  director = YVSjrv , quotient = 197.2
+Fiction: name = tdnmsXRCwg  year = 1973  director = rbrRJhur , quotient = 197.3
+Documentary: name = wHWZqUpJtO  year = 1973  duration = 96 , calculation = 197.3
+Fiction: name = gDwDJoYQvX  year = 1974  director = hvZXBJ , quotient = 197.4
+Documentary: name = WjtodWXWOI  year = 1974  duration = 15 , calculation = 197.4
+Fiction: name = OgCWqkPCPD  year = 1974  director = KRJmPWvpp , quotient = 197.4
+Cartoon: name = pbQSngIFnl  year = 1974  legacy = PUPPET, calculation = 197.4
+Cartoon: name = IcyeQcotDF  year = 1974  legacy = DRAW, calculation = 197.4
+Fiction: name = sYQKjrZoeH  year = 1974  director = dKpgiCKaM , quotient = 197.4
+Cartoon: name = sthtIcKxLk  year = 1974  legacy = PLASTICINE, calculation = 197.4
+Fiction: name = QazOAhtDqE  year = 1975  director = jrlic , quotient = 197.5
+Cartoon: name = kBGzTHDOnD  year = 1975  legacy = PUPPET, calculation = 197.5
+Fiction: name = HCaSAtcLHA  year = 1975  director = REtkyR , quotient = 197.5
+Fiction: name = BbnshsCkXS  year = 1976  director = LBHHid , quotient = 197.6
+Fiction: name = FfSHjfvZbA  year = 1976  director = XADoTuaQ , quotient = 197.6
+Cartoon: name = RLBdrYxWqt  year = 1976  legacy = PLASTICINE, calculation = 197.6
+Documentary: name = RMLtqtLDNT  year = 1976  duration = 92 , calculation = 197.6
+Cartoon: name = TPiDxSJIMh  year = 1977  legacy = PLASTICINE, calculation = 197.7
+Documentary: name = AHWAsPfOan  year = 1978  duration = 49 , calculation = 197.8
+Fiction: name = lnaZhLQPAj  year = 1978  director = QdEVwjCaf , quotient = 197.8
+Documentary: name = kfwPonWMYh  year = 1978  duration = 82 , calculation = 197.8
+Fiction: name = EsuwNgvlhd  year = 1979  director = ROWhBUprDV , quotient = 197.9
+Cartoon: name = kYVzVhtyyC  year = 1979  legacy = DRAW, calculation = 197.9
+Cartoon: name = EhqfjJeiQn  year = 1979  legacy = PLASTICINE, calculation = 197.9
+Cartoon: name = ImjXjiPAFy  year = 1980  legacy = DRAW, calculation = 198.0
+Cartoon: name = OnKjiNAjyH  year = 1980  legacy = DRAW, calculation = 198.0
+Documentary: name = iALZYLAqCl  year = 1980  duration = 79 , calculation = 198.0
+Documentary: name = hdaNialGAI  year = 1981  duration = 96 , calculation = 198.1
+Fiction: name = VRNDxowfDI  year = 1982  director = cHsqaG , quotient = 198.2
+Fiction: name = YFzRylfVdF  year = 1983  director = cpIHrV , quotient = 198.3
+Fiction: name = hZWDqdiJsa  year = 1983  director = FLhtHZIkoP , quotient = 198.3
+Documentary: name = PJoyowMgCK  year = 1985  duration = 96 , calculation = 198.5
+Fiction: name = scBhOfjJow  year = 1986  director = QngxVKkja , quotient = 198.6
+Cartoon: name = cbbrMuWUNr  year = 1986  legacy = DRAW, calculation = 198.6
+Cartoon: name = JxvuovJGaT  year = 1987  legacy = DRAW, calculation = 198.7
+Fiction: name = yyZLPUguFe  year = 1989  director = mitwUpGGY , quotient = 198.9
+Cartoon: name = BsWyrZpuym  year = 1990  legacy = DRAW, calculation = 199.0
+Documentary: name = AnIaeuXZvk  year = 1990  duration = 82 , calculation = 199.0
+Fiction: name = XhrZtoFtMo  year = 1993  director = HPOFtNsUsM , quotient = 199.3
+Documentary: name = YFxGeNBqfi  year = 1993  duration = 31 , calculation = 199.3
+Cartoon: name = nUfFyMGKmC  year = 1993  legacy = PUPPET, calculation = 199.3
+Documentary: name = SoZXIaXpyx  year = 1993  duration = 63 , calculation = 199.3
+Cartoon: name = kKcwWPoFGW  year = 1994  legacy = PLASTICINE, calculation = 199.4
+Fiction: name = ztBdIVhPBm  year = 1994  director = AUmzVoYG , quotient = 199.4
+Fiction: name = GwhZwiKqfU  year = 1995  director = UbjJmvLXn , quotient = 199.5
+Fiction: name = xItbVzcmTr  year = 1995  director = JJFScbBxPC , quotient = 199.5
+Fiction: name = TlcSEhRFrM  year = 1996  director = VygIbWIltm , quotient = 199.6
+Fiction: name = SgRYNHNEOL  year = 1998  director = aDqUu , quotient = 199.8
+Documentary: name = uQuysPqbhi  year = 1999  duration = 16 , calculation = 199.9
+Cartoon: name = WZSubWBQnM  year = 2000  legacy = DRAW, calculation = 200.0
+Fiction: name = mwjqoeLhIR  year = 2001  director = ANaSA , quotient = 200.1
+Cartoon: name = iVMxmOvMEE  year = 2002  legacy = PUPPET, calculation = 200.2
+Documentary: name = REkMSahaBT  year = 2004  duration = 42 , calculation = 200.4
+Documentary: name = NGQtwtYKan  year = 2004  duration = 50 , calculation = 200.4
+Fiction: name = dkFTesJltY  year = 2004  director = ZEhuURAwj , quotient = 200.4
+Cartoon: name = cDElycZRAd  year = 2004  legacy = PUPPET, calculation = 200.4
+Fiction: name = lUFbOqhOFx  year = 2004  director = eiALA , quotient = 200.4
+Documentary: name = KIjfeXiEEA  year = 2004  duration = 11 , calculation = 200.4
+Fiction: name = QgLrrvcult  year = 2004  director = pZRnpS , quotient = 200.4
+Fiction: name = SOUSWjQwZA  year = 2005  director = kydIi , quotient = 200.5
+Fiction: name = mCSIWnKury  year = 2005  director = cRlLCpLD , quotient = 200.5
+Fiction: name = DZwdCRWTFG  year = 2006  director = RDYabP , quotient = 200.6
+Cartoon: name = letFmgtmcF  year = 2006  legacy = PUPPET, calculation = 200.6
+Fiction: name = LImmnoBnWA  year = 2006  director = TwOdJhkLIC , quotient = 200.6
+Cartoon: name = fleBJltvac  year = 2006  legacy = DRAW, calculation = 200.6
+Cartoon: name = GquPtSsGZJ  year = 2006  legacy = PLASTICINE, calculation = 200.6
+Documentary: name = LOrBmrpEaU  year = 2007  duration = 61 , calculation = 200.7
+Documentary: name = OyHAczZAuB  year = 2007  duration = 18 , calculation = 200.7
+Cartoon: name = LsWkKAfdox  year = 2008  legacy = DRAW, calculation = 200.8
+Fiction: name = spuDCHQerV  year = 2008  director = DxfFWTfZ , quotient = 200.8
+Fiction: name = hBxRxgAVOG  year = 2010  director = lmRGR , quotient = 201.0
+Cartoon: name = GWodnmUjhy  year = 2010  legacy = PUPPET, calculation = 201.0
+Fiction: name = pgxKJggCEt  year = 2010  director = CnSWThmiA , quotient = 201.0
+Documentary: name = HKxrkUjBGS  year = 2012  duration = 8 , calculation = 201.2
+Fiction: name = pjxMYHsFQE  year = 2012  director = kPiFi , quotient = 201.2
+Documentary: name = AHUPTbFJih  year = 2012  duration = 51 , calculation = 201.2
+Cartoon: name = oUzCzaXrZu  year = 2013  legacy = PLASTICINE, calculation = 201.3
+Fiction: name = SfATJePtFm  year = 2013  director = khrAZ , quotient = 201.3
+Fiction: name = wlhEMZAjyR  year = 2014  director = bjmxTC , quotient = 201.4
+Cartoon: name = SsDqZDiMby  year = 2014  legacy = DRAW, calculation = 201.4
+Fiction: name = sWbuRHLypi  year = 2014  director = rzcHsj , quotient = 201.4
+Cartoon: name = GWQIhjwGHc  year = 2015  legacy = PLASTICINE, calculation = 201.5
+Documentary: name = VfLXnDgAQU  year = 2015  duration = 95 , calculation = 201.5
+Cartoon: name = GIMitopCeI  year = 2015  legacy = PUPPET, calculation = 201.5
+Fiction: name = EBmdeTZOWT  year = 2016  director = PQTjngv , quotient = 201.6
+Documentary: name = LDQtyLISHo  year = 2016  duration = 82 , calculation = 201.6
+Fiction: name = gQhTFjMnFh  year = 2017  director = UYAup , quotient = 201.7
+Fiction: name = nTlHIRamKy  year = 2017  director = TWbAjfnl , quotient = 201.7
+Documentary: name = hIKmmtisGV  year = 2019  duration = 9 , calculation = 201.9
+Cartoon: name = yWhFyvpQfv  year = 2019  legacy = PLASTICINE, calculation = 201.9
+Fiction: name = qXjMOwWgYX  year = 2019  director = ESfEK , quotient = 201.9
+Documentary: name = pmnGjcDyXh  year = 2020  duration = 47 , calculation = 202.0
+Cartoon: name = kxkFiqGgZ  year = 1945  legacy = PLASTICINE, calculation = 216.11
+Documentary: name = NoLSWvGNE  year = 1945  duration = 80 , calculation = 216.11
+Fiction: name = AxAPPpJju  year = 1946  director = uBhQC , quotient = 216.22
+Documentary: name = LyadgSPWy  year = 1947  duration = 58 , calculation = 216.33
+Fiction: name = AcHBxKVGs  year = 1947  director = FKpTpKgRy , quotient = 216.33
+Fiction: name = cHnYitDAR  year = 1947  director = FIijBBcB , quotient = 216.33
+Fiction: name = sRVUglWGq  year = 1948  director = DKinf , quotient = 216.44
+Fiction: name = QqIEXaFHg  year = 1948  director = QIIFFL , quotient = 216.44
+Cartoon: name = NaApPgOws  year = 1948  legacy = DRAW, calculation = 216.44
+Documentary: name = WdbhqEwYw  year = 1948  duration = 6 , calculation = 216.44
+Documentary: name = VpZZSvcNH  year = 1950  duration = 36 , calculation = 216.67
+Documentary: name = USZCyViHI  year = 1951  duration = 9 , calculation = 216.78
+Cartoon: name = iUFxoGLKv  year = 1951  legacy = PUPPET, calculation = 216.78
+Documentary: name = uqViQVcDa  year = 1951  duration = 48 , calculation = 216.78
+Documentary: name = REVUNFYig  year = 1951  duration = 80 , calculation = 216.78
+Fiction: name = gznXTMALH  year = 1952  director = OBPKGOyzIv , quotient = 216.89
+Documentary: name = BkyyRtQJI  year = 1952  duration = 97 , calculation = 216.89
+Fiction: name = FsAcRTRxI  year = 1952  director = ztJMmq , quotient = 216.89
+Documentary: name = LVIvxNEcm  year = 1952  duration = 28 , calculation = 216.89
+Documentary: name = oeNJZhvIG  year = 1952  duration = 77 , calculation = 216.89
+Fiction: name = WsALcFgOv  year = 1953  director = aJzjGK , quotient = 217.0
+Fiction: name = cWEEAHRlV  year = 1953  director = pYpKjBCT , quotient = 217.0
+Fiction: name = CnLCWLEKP  year = 1953  director = wsqwbUeUNR , quotient = 217.0
+Cartoon: name = jdKBistkV  year = 1954  legacy = PUPPET, calculation = 217.11
+Cartoon: name = PsZElLmNY  year = 1955  legacy = PLASTICINE, calculation = 217.22
+Cartoon: name = vPgkbMqAX  year = 1955  legacy = PUPPET, calculation = 217.22
+Documentary: name = HHqltcHYR  year = 1955  duration = 75 , calculation = 217.22
+Documentary: name = wqilpZygp  year = 1956  duration = 31 , calculation = 217.33
+Documentary: name = UAQhVXCTC  year = 1956  duration = 19 , calculation = 217.33
+Fiction: name = mTdXiJskw  year = 1956  director = jrwXYNETHc , quotient = 217.33
+Fiction: name = BgIaeBXJj  year = 1956  director = ApEgeRwkPC , quotient = 217.33
+Documentary: name = rGISStvzH  year = 1956  duration = 10 , calculation = 217.33
+Fiction: name = utYpDNfww  year = 1957  director = Hxdqev , quotient = 217.44
+Cartoon: name = nHJahlHiB  year = 1957  legacy = DRAW, calculation = 217.44
+Fiction: name = YSpqABtvH  year = 1957  director = xNlAKtFp , quotient = 217.44
+Cartoon: name = blymmmcTS  year = 1957  legacy = DRAW, calculation = 217.44
+Documentary: name = BDibHqwRx  year = 1959  duration = 72 , calculation = 217.67
+Documentary: name = mBIdLFHbi  year = 1960  duration = 61 , calculation = 217.78
+Fiction: name = FznmylEqI  year = 1961  director = UTnFGNwaN , quotient = 217.89
+Cartoon: name = VcubyERwF  year = 1961  legacy = DRAW, calculation = 217.89
+Cartoon: name = TmAduXReN  year = 1961  legacy = PLASTICINE, calculation = 217.89
+Fiction: name = wDWqSpjSE  year = 1961  director = MNMhba , quotient = 217.89
+Fiction: name = njVczprox  year = 1962  director = MxFynxxH , quotient = 218.0
+Fiction: name = JpEPPQHmS  year = 1962  director = tiaLngu , quotient = 218.0
+Documentary: name = mMbQpRqWS  year = 1963  duration = 68 , calculation = 218.11
+Fiction: name = JNbLjIvSs  year = 1964  director = FQOPiEgTAW , quotient = 218.22
+Documentary: name = OJDcEyPIY  year = 1964  duration = 93 , calculation = 218.22
+Documentary: name = qCBdBeTKE  year = 1964  duration = 91 , calculation = 218.22
+Cartoon: name = vyKNvsOKT  year = 1965  legacy = DRAW, calculation = 218.33
+Documentary: name = MaLWweKAc  year = 1965  duration = 46 , calculation = 218.33
+Documentary: name = ZugcpPlSm  year = 1965  duration = 53 , calculation = 218.33
+Cartoon: name = DaWlNsIXG  year = 1966  legacy = DRAW, calculation = 218.44
+Documentary: name = PAyiZGtNT  year = 1967  duration = 98 , calculation = 218.56
+Cartoon: name = HXJhKXfeD  year = 1967  legacy = PUPPET, calculation = 218.56
+Fiction: name = QDQsvAykd  year = 1968  director = kISMY , quotient = 218.67
+Cartoon: name = usRTLhOZd  year = 1968  legacy = PUPPET, calculation = 218.67
+Cartoon: name = IxcQNmeot  year = 1968  legacy = DRAW, calculation = 218.67
+Cartoon: name = hwwTvVbjc  year = 1968  legacy = DRAW, calculation = 218.67
+Cartoon: name = uYqqhXouy  year = 1969  legacy = PLASTICINE, calculation = 218.78
+Documentary: name = nGuZLmoOj  year = 1969  duration = 14 , calculation = 218.78
+Fiction: name = RmZMpYZjq  year = 1970  director = AqGksopT , quotient = 218.89
+Documentary: name = EAurqPLee  year = 1970  duration = 46 , calculation = 218.89
+Fiction: name = jSsoVlWLe  year = 1970  director = fIexgLYxA , quotient = 218.89
+Cartoon: name = ItXClwujU  year = 1970  legacy = PLASTICINE, calculation = 218.89
+Documentary: name = robbhWNSw  year = 1970  duration = 57 , calculation = 218.89
+Cartoon: name = pZgBjidcl  year = 1970  legacy = PUPPET, calculation = 218.89
+Documentary: name = WmCEeXhJd  year = 1971  duration = 56 , calculation = 219.0
+Documentary: name = SwFYlysxC  year = 1973  duration = 43 , calculation = 219.22
+Documentary: name = clkREqIsS  year = 1973  duration = 51 , calculation = 219.22
+Fiction: name = AlcQcbTzW  year = 1973  director = XfAuxPMjqw , quotient = 219.22
+Documentary: name = slYjzahQf  year = 1974  duration = 11 , calculation = 219.33
+Fiction: name = fdxOYXPYK  year = 1974  director = DGHazgAS , quotient = 219.33
+Fiction: name = WToMnmNEb  year = 1974  director = IRbekMOmGA , quotient = 219.33
+Fiction: name = mZsunhFGH  year = 1974  director = uwuuvDW , quotient = 219.33
+Cartoon: name = rdADVZUcv  year = 1974  legacy = PLASTICINE, calculation = 219.33
+Documentary: name = aSEoCLWpX  year = 1975  duration = 84 , calculation = 219.44
+Fiction: name = nmetnemyv  year = 1976  director = UbRUGgPEW , quotient = 219.56
+Documentary: name = vJFaLPkMl  year = 1977  duration = 94 , calculation = 219.67
+Cartoon: name = teKTYZpuj  year = 1978  legacy = DRAW, calculation = 219.78
+Fiction: name = oXUDwXXQc  year = 1978  director = sgpJgYxt , quotient = 219.78
+Documentary: name = iRihCuIsm  year = 1979  duration = 18 , calculation = 219.89
+Fiction: name = WUwsLneQP  year = 1980  director = WjQimk , quotient = 220.0
+Cartoon: name = LExiKRypx  year = 1980  legacy = PUPPET, calculation = 220.0
+Cartoon: name = tJacKGnDX  year = 1981  legacy = PLASTICINE, calculation = 220.11
+Cartoon: name = IEjJMaOmD  year = 1981  legacy = PLASTICINE, calculation = 220.11
+Documentary: name = mqeKqlxPb  year = 1981  duration = 67 , calculation = 220.11
+Fiction: name = mVXQotfIL  year = 1981  director = MZlrVj , quotient = 220.11
+Documentary: name = pshPAzSBX  year = 1981  duration = 29 , calculation = 220.11
+Cartoon: name = wrBlPnvVP  year = 1982  legacy = PUPPET, calculation = 220.22
+Cartoon: name = ZsbmmYSMd  year = 1982  legacy = DRAW, calculation = 220.22
+Documentary: name = fTstcNCHD  year = 1983  duration = 94 , calculation = 220.33
+Fiction: name = pdLvMUYQx  year = 1984  director = biBtAGJr , quotient = 220.44
+Documentary: name = CcrdZOpIl  year = 1984  duration = 56 , calculation = 220.44
+Documentary: name = zQyfwbZTt  year = 1984  duration = 6 , calculation = 220.44
+Documentary: name = lHZOHtqdV  year = 1984  duration = 66 , calculation = 220.44
+Cartoon: name = ZYGlCefzU  year = 1984  legacy = PLASTICINE, calculation = 220.44
+Cartoon: name = YSHrUwGGM  year = 1985  legacy = PLASTICINE, calculation = 220.56
+Fiction: name = EDXEGLSCY  year = 1986  director = FjyFg , quotient = 220.67
+Documentary: name = sLnBLaeFk  year = 1987  duration = 61 , calculation = 220.78
+Cartoon: name = UQFLaFLcD  year = 1988  legacy = PLASTICINE, calculation = 220.89
+Documentary: name = cxkSjbYUA  year = 1988  duration = 7 , calculation = 220.89
+Documentary: name = OLqRBmpOP  year = 1988  duration = 52 , calculation = 220.89
+Cartoon: name = bZFJymLDy  year = 1989  legacy = DRAW, calculation = 221.0
+Fiction: name = vrFindbFC  year = 1989  director = WCmexpvAzA , quotient = 221.0
+Documentary: name = morrKwXwZ  year = 1989  duration = 36 , calculation = 221.0
+Documentary: name = uihrGgUJY  year = 1989  duration = 52 , calculation = 221.0
+Documentary: name = mmKYDgESr  year = 1990  duration = 71 , calculation = 221.11
+Cartoon: name = MoZpWHfWK  year = 1990  legacy = PUPPET, calculation = 221.11
+Fiction: name = uewtkoOYU  year = 1990  director = OozweIj , quotient = 221.11
+Cartoon: name = WlUhcyYSE  year = 1990  legacy = PUPPET, calculation = 221.11
+Fiction: name = pmFIUcMGO  year = 1990  director = VqRvjvXSvw , quotient = 221.11
+Fiction: name = dCPoVSPKD  year = 1991  director = MinvRbeD , quotient = 221.22
+Fiction: name = RiIGTzyGF  year = 1991  director = jAyyJddDq , quotient = 221.22
+Cartoon: name = KQulHQYmY  year = 1991  legacy = PLASTICINE, calculation = 221.22
+Cartoon: name = RADRJKdGO  year = 1992  legacy = DRAW, calculation = 221.33
+Documentary: name = jqbPjReOS  year = 1992  duration = 43 , calculation = 221.33
+Fiction: name = GJtspcLwA  year = 1993  director = qytSEotpLZ , quotient = 221.44
+Documentary: name = wfDKkkQZw  year = 1994  duration = 29 , calculation = 221.56
+Fiction: name = oIRKNSJkg  year = 1994  director = AlpIgodu , quotient = 221.56
+Fiction: name = WvpiLuKmL  year = 1994  director = TDHvbk , quotient = 221.56
+Cartoon: name = RRMmkkCjW  year = 1995  legacy = DRAW, calculation = 221.67
+Documentary: name = PIOmxRngE  year = 1995  duration = 33 , calculation = 221.67
+Cartoon: name = loMUyyhCv  year = 1995  legacy = PLASTICINE, calculation = 221.67
+Cartoon: name = TUUHNkuPk  year = 1995  legacy = PUPPET, calculation = 221.67
+Documentary: name = FqUWnWThn  year = 1996  duration = 41 , calculation = 221.78
+Cartoon: name = xhuCgJHpT  year = 1996  legacy = DRAW, calculation = 221.78
+Cartoon: name = ubZNBwnPs  year = 1997  legacy = PUPPET, calculation = 221.89
+Cartoon: name = xDBdgwiwr  year = 1998  legacy = PUPPET, calculation = 222.0
+Fiction: name = cLTaMEJIa  year = 1998  director = EUYMm , quotient = 222.0
+Documentary: name = ECpYdMrNJ  year = 1998  duration = 78 , calculation = 222.0
+Documentary: name = eMrWSchdy  year = 1998  duration = 72 , calculation = 222.0
+Cartoon: name = BrqOdfSxG  year = 1998  legacy = DRAW, calculation = 222.0
+Documentary: name = agYXhTUcs  year = 1998  duration = 49 , calculation = 222.0
+Fiction: name = OnqIczlIW  year = 1999  director = AjGra , quotient = 222.11
+Documentary: name = tRnNOKFUw  year = 1999  duration = 51 , calculation = 222.11
+Fiction: name = kkeBRQhRg  year = 1999  director = WWQMGljQH , quotient = 222.11
+Fiction: name = KePgTXHul  year = 2000  director = isWHhisI , quotient = 222.22
+Fiction: name = YtxBuqgde  year = 2000  director = zkQCPTv , quotient = 222.22
+Fiction: name = MsGvXpykX  year = 2001  director = zARgMtL , quotient = 222.33
+Cartoon: name = uNzUauyaY  year = 2001  legacy = DRAW, calculation = 222.33
+Fiction: name = dHILwSZbD  year = 2001  director = RIGHahx , quotient = 222.33
+Cartoon: name = xbIRoCoae  year = 2002  legacy = DRAW, calculation = 222.44
+Documentary: name = fWwLJifwt  year = 2002  duration = 5 , calculation = 222.44
+Fiction: name = AbhWVegTr  year = 2002  director = bUuuEf , quotient = 222.44
+Fiction: name = ShBHiTkBw  year = 2002  director = rHFWEvrS , quotient = 222.44
+Documentary: name = mjchmHuRi  year = 2003  duration = 67 , calculation = 222.56
+Documentary: name = rjynyLeGN  year = 2003  duration = 43 , calculation = 222.56
+Fiction: name = tahSQfDjy  year = 2004  director = vMhyYbbUbh , quotient = 222.67
+Cartoon: name = qUPjvOUnl  year = 2004  legacy = PUPPET, calculation = 222.67
+Cartoon: name = oQtvBgoow  year = 2004  legacy = PLASTICINE, calculation = 222.67
+Fiction: name = nEgjnvkVH  year = 2005  director = djJLXpQnu , quotient = 222.78
+Cartoon: name = hqcZagwyq  year = 2005  legacy = PUPPET, calculation = 222.78
+Cartoon: name = klmhHRmJW  year = 2005  legacy = PUPPET, calculation = 222.78
+Cartoon: name = nZNylPeBP  year = 2005  legacy = DRAW, calculation = 222.78
+Documentary: name = wolXJkdxl  year = 2007  duration = 33 , calculation = 223.0
+Documentary: name = XXrvZgHis  year = 2007  duration = 33 , calculation = 223.0
+Documentary: name = kBtOSOztd  year = 2007  duration = 56 , calculation = 223.0
+Documentary: name = WThtAqYfK  year = 2008  duration = 40 , calculation = 223.11
+Fiction: name = KmpCdMaEI  year = 2008  director = haUeTdorFN , quotient = 223.11
+Cartoon: name = txcElloYH  year = 2009  legacy = DRAW, calculation = 223.22
+Cartoon: name = bJEPhMNCE  year = 2010  legacy = DRAW, calculation = 223.33
+Documentary: name = yfEjmZkCc  year = 2010  duration = 14 , calculation = 223.33
+Cartoon: name = jntJZaCKa  year = 2010  legacy = DRAW, calculation = 223.33
+Cartoon: name = lAoKYySXt  year = 2010  legacy = DRAW, calculation = 223.33
+Cartoon: name = jgPBEPbRi  year = 2011  legacy = PUPPET, calculation = 223.44
+Fiction: name = xofDFCiWD  year = 2011  director = TbTkcrS , quotient = 223.44
+Documentary: name = qGujBVNkC  year = 2012  duration = 69 , calculation = 223.56
+Fiction: name = PyZBZWIdH  year = 2012  director = jbXJxCr , quotient = 223.56
+Fiction: name = TWSyAiEuW  year = 2012  director = SJKLYDhyHm , quotient = 223.56
+Cartoon: name = BabGSXbzB  year = 2013  legacy = PLASTICINE, calculation = 223.67
+Fiction: name = SJynddpLd  year = 2014  director = EUlruTn , quotient = 223.78
+Cartoon: name = qyTPbbHyH  year = 2015  legacy = PUPPET, calculation = 223.89
+Documentary: name = bwjYKDWRe  year = 2015  duration = 31 , calculation = 223.89
+Fiction: name = anrzfUxyW  year = 2015  director = blFNvgDv , quotient = 223.89
+Fiction: name = lazhrPgDy  year = 2015  director = mAKKhBGDsT , quotient = 223.89
+Documentary: name = OPptcZLHj  year = 2015  duration = 44 , calculation = 223.89
+Documentary: name = xNUCpiOVf  year = 2016  duration = 12 , calculation = 224.0
+Fiction: name = YMkouKziz  year = 2017  director = ugPyuZeLw , quotient = 224.11
+Cartoon: name = hBWwVYBGn  year = 2017  legacy = PUPPET, calculation = 224.11
+Cartoon: name = zCPKhWkWZ  year = 2017  legacy = DRAW, calculation = 224.11
+Cartoon: name = hPLckNsAS  year = 2017  legacy = PUPPET, calculation = 224.11
+Fiction: name = fcBxWIYhV  year = 2018  director = FRTkSyP , quotient = 224.22
+Cartoon: name = srHTSKSJQ  year = 2018  legacy = PUPPET, calculation = 224.22
+Documentary: name = gUKqJFQzh  year = 2018  duration = 54 , calculation = 224.22
+Cartoon: name = AHCjtcJYB  year = 2019  legacy = PLASTICINE, calculation = 224.33
+Documentary: name = ttqqFLbXH  year = 2019  duration = 43 , calculation = 224.33
+Documentary: name = ooywyAJqL  year = 2019  duration = 11 , calculation = 224.33
+Cartoon: name = fmSLUgwVu  year = 2019  legacy = DRAW, calculation = 224.33
+Cartoon: name = ecuhVbfia  year = 2020  legacy = DRAW, calculation = 224.44
+Cartoon: name = qgbkMxsS  year = 1945  legacy = DRAW, calculation = 243.12
+Cartoon: name = bkfUArOH  year = 1945  legacy = PUPPET, calculation = 243.12
+Cartoon: name = mIgnWTNg  year = 1945  legacy = PLASTICINE, calculation = 243.12
+Fiction: name = mHivMotO  year = 1945  director = XEkixls , quotient = 243.12
+Cartoon: name = fGAPXuAl  year = 1946  legacy = DRAW, calculation = 243.25
+Documentary: name = WAtRrrzt  year = 1946  duration = 80 , calculation = 243.25
+Cartoon: name = KkCAUQVl  year = 1947  legacy = PLASTICINE, calculation = 243.38
+Fiction: name = OTxnzslR  year = 1947  director = wBgzP , quotient = 243.38
+Cartoon: name = ZfbHNTAk  year = 1947  legacy = PLASTICINE, calculation = 243.38
+Cartoon: name = ZqzbVWhy  year = 1947  legacy = PUPPET, calculation = 243.38
+Fiction: name = HhKDacgL  year = 1947  director = TRJBX , quotient = 243.38
+Fiction: name = idUywZMt  year = 1948  director = xwZrOyQTp , quotient = 243.5
+Fiction: name = OEBFAEYl  year = 1948  director = wbnmcxfRE , quotient = 243.5
+Documentary: name = TBlGjGyM  year = 1948  duration = 64 , calculation = 243.5
+Documentary: name = atZiRzwQ  year = 1949  duration = 75 , calculation = 243.62
+Cartoon: name = SAvHQyVS  year = 1949  legacy = PUPPET, calculation = 243.62
+Cartoon: name = NxnAjXWp  year = 1950  legacy = PLASTICINE, calculation = 243.75
+Documentary: name = lRmxmFnk  year = 1950  duration = 37 , calculation = 243.75
+Documentary: name = kmsgIklB  year = 1950  duration = 36 , calculation = 243.75
+Cartoon: name = cpzxLBQG  year = 1950  legacy = DRAW, calculation = 243.75
+Fiction: name = YlfxejDY  year = 1951  director = RoJjJzJH , quotient = 243.88
+Fiction: name = eWotnkng  year = 1952  director = GKllyk , quotient = 244.0
+Documentary: name = czLiUehK  year = 1952  duration = 53 , calculation = 244.0
+Fiction: name = SJrHIxjO  year = 1953  director = lvBWAaKeu , quotient = 244.12
+Cartoon: name = DdrqemGE  year = 1953  legacy = PLASTICINE, calculation = 244.12
+Fiction: name = iqqVtdlR  year = 1953  director = Mzikg , quotient = 244.12
+Fiction: name = RJZnWHWy  year = 1955  director = uDkVMLhHz , quotient = 244.38
+Cartoon: name = RRFjCVVn  year = 1955  legacy = DRAW, calculation = 244.38
+Documentary: name = DwEOMDFJ  year = 1955  duration = 60 , calculation = 244.38
+Fiction: name = tvvMxvBR  year = 1955  director = phwmNORg , quotient = 244.38
+Fiction: name = SpnXhhIl  year = 1957  director = mMijIheme , quotient = 244.62
+Documentary: name = BXbgFxoB  year = 1957  duration = 61 , calculation = 244.62
+Fiction: name = xWrzwTkw  year = 1957  director = XDHMLKjuCp , quotient = 244.62
+Documentary: name = gIeCsNKR  year = 1957  duration = 28 , calculation = 244.62
+Cartoon: name = jfeQPtKf  year = 1957  legacy = PLASTICINE, calculation = 244.62
+Fiction: name = WJyRRaiB  year = 1957  director = OwyOJAeZUH , quotient = 244.62
+Cartoon: name = eLjXTsfg  year = 1958  legacy = PUPPET, calculation = 244.75
+Fiction: name = ZMfqGJZy  year = 1958  director = MDMqT , quotient = 244.75
+Fiction: name = bHNesFno  year = 1958  director = IbUuc , quotient = 244.75
+Documentary: name = mWiXNALp  year = 1958  duration = 73 , calculation = 244.75
+Cartoon: name = mQCBjUuY  year = 1959  legacy = PLASTICINE, calculation = 244.88
+Cartoon: name = RfIedyda  year = 1959  legacy = PLASTICINE, calculation = 244.88
+Cartoon: name = daORQIih  year = 1959  legacy = DRAW, calculation = 244.88
+Documentary: name = aoFBIBTN  year = 1959  duration = 5 , calculation = 244.88
+Documentary: name = klKzDleS  year = 1960  duration = 67 , calculation = 245.0
+Documentary: name = mHEMaWkp  year = 1960  duration = 21 , calculation = 245.0
+Fiction: name = PvJRyRTH  year = 1961  director = wRTbT , quotient = 245.12
+Documentary: name = QTwyoOtA  year = 1961  duration = 69 , calculation = 245.12
+Documentary: name = qwWDqnUt  year = 1961  duration = 82 , calculation = 245.12
+Documentary: name = dcDwVsXr  year = 1963  duration = 90 , calculation = 245.38
+Fiction: name = DHYvABgd  year = 1964  director = NDvuRJ , quotient = 245.5
+Fiction: name = RZLEFGFB  year = 1965  director = uKoHYhi , quotient = 245.62
+Fiction: name = JwavItJF  year = 1966  director = eMsxuhKOYf , quotient = 245.75
+Documentary: name = hbeEGEcm  year = 1966  duration = 17 , calculation = 245.75
+Fiction: name = olFhHOuv  year = 1966  director = efmNwJggS , quotient = 245.75
+Fiction: name = YVyYPntM  year = 1966  director = mEKFsEB , quotient = 245.75
+Documentary: name = BFgJPrbt  year = 1966  duration = 42 , calculation = 245.75
+Fiction: name = BwpeOACs  year = 1966  director = oZjypntSxS , quotient = 245.75
+Cartoon: name = WMdjrJHx  year = 1966  legacy = PLASTICINE, calculation = 245.75
+Documentary: name = tWLHqcfC  year = 1966  duration = 66 , calculation = 245.75
+Fiction: name = mNHyLBtY  year = 1966  director = iIrahHtUR , quotient = 245.75
+Cartoon: name = VEzpoUre  year = 1966  legacy = PUPPET, calculation = 245.75
+Cartoon: name = MgYaljYh  year = 1967  legacy = PUPPET, calculation = 245.88
+Documentary: name = nnqHzcAb  year = 1967  duration = 60 , calculation = 245.88
+Cartoon: name = vPjiKszt  year = 1967  legacy = DRAW, calculation = 245.88
+Documentary: name = hLZasHjH  year = 1968  duration = 39 , calculation = 246.0
+Fiction: name = GIRKaBXq  year = 1968  director = JNQEh , quotient = 246.0
+Fiction: name = hsgYEAvN  year = 1969  director = ZAWfsPXJq , quotient = 246.12
+Fiction: name = lQHykjdT  year = 1969  director = nLEzn , quotient = 246.12
+Cartoon: name = VAxVONqX  year = 1970  legacy = PUPPET, calculation = 246.25
+Documentary: name = oUKGWwZz  year = 1971  duration = 18 , calculation = 246.38
+Cartoon: name = AUOWvgvZ  year = 1971  legacy = PUPPET, calculation = 246.38
+Cartoon: name = OmVpIWgN  year = 1972  legacy = PLASTICINE, calculation = 246.5
+Documentary: name = FUoFYnbW  year = 1972  duration = 13 , calculation = 246.5
+Documentary: name = ugCSxmSv  year = 1972  duration = 95 , calculation = 246.5
+Cartoon: name = sgXGvPzK  year = 1973  legacy = DRAW, calculation = 246.62
+Fiction: name = NCcKDVWF  year = 1973  director = KQhii , quotient = 246.62
+Cartoon: name = wzxZTwYb  year = 1974  legacy = PUPPET, calculation = 246.75
+Cartoon: name = fwqTYZUn  year = 1974  legacy = PUPPET, calculation = 246.75
+Documentary: name = BOTLKMGg  year = 1974  duration = 90 , calculation = 246.75
+Cartoon: name = gmvwPzuX  year = 1974  legacy = PUPPET, calculation = 246.75
+Documentary: name = GvatAYwi  year = 1975  duration = 18 , calculation = 246.88
+Fiction: name = jhnXKkSQ  year = 1976  director = IUIasJpxi , quotient = 247.0
+Cartoon: name = TwCeixBv  year = 1977  legacy = DRAW, calculation = 247.12
+Cartoon: name = UetwMqpN  year = 1978  legacy = PUPPET, calculation = 247.25
+Documentary: name = NnHojfYM  year = 1978  duration = 16 , calculation = 247.25
+Cartoon: name = TzYDmVIC  year = 1978  legacy = PUPPET, calculation = 247.25
+Documentary: name = ZNhuliAE  year = 1980  duration = 36 , calculation = 247.5
+Documentary: name = cYoAXPHH  year = 1980  duration = 55 , calculation = 247.5
+Cartoon: name = RvsONcuQ  year = 1980  legacy = DRAW, calculation = 247.5
+Documentary: name = EmSMCQFr  year = 1981  duration = 12 , calculation = 247.62
+Fiction: name = AzBSHDVw  year = 1981  director = KBmiGeZJ , quotient = 247.62
+Cartoon: name = xYvTSQjc  year = 1983  legacy = PUPPET, calculation = 247.88
+Fiction: name = TjsIWJmK  year = 1984  director = BfStF , quotient = 248.0
+Fiction: name = pWBTVRxy  year = 1984  director = CfKMOl , quotient = 248.0
+Cartoon: name = SXWXQiAB  year = 1985  legacy = PLASTICINE, calculation = 248.12
+Cartoon: name = BVefWKSU  year = 1985  legacy = PLASTICINE, calculation = 248.12
+Documentary: name = etubIwmJ  year = 1986  duration = 99 , calculation = 248.25
+Documentary: name = aVhqCvge  year = 1988  duration = 65 , calculation = 248.5
+Documentary: name = GtHSqTMy  year = 1989  duration = 36 , calculation = 248.62
+Cartoon: name = AQRXhfnm  year = 1989  legacy = PLASTICINE, calculation = 248.62
+Cartoon: name = CtrwAsQv  year = 1991  legacy = DRAW, calculation = 248.88
+Documentary: name = nYYXpHbz  year = 1992  duration = 88 , calculation = 249.0
+Fiction: name = yLovUXSF  year = 1992  director = dOmUzuyhV , quotient = 249.0
+Documentary: name = HuVxHKvo  year = 1993  duration = 8 , calculation = 249.12
+Documentary: name = HsEljotx  year = 1993  duration = 54 , calculation = 249.12
+Documentary: name = uDTknPiM  year = 1994  duration = 64 , calculation = 249.25
+Cartoon: name = yYgaEYQJ  year = 1994  legacy = DRAW, calculation = 249.25
+Documentary: name = snjbhAUV  year = 1994  duration = 12 , calculation = 249.25
+Fiction: name = uKMOdXil  year = 1995  director = csvwk , quotient = 249.38
+Fiction: name = ZkLHMqfV  year = 1995  director = MuUxFhPjCm , quotient = 249.38
+Cartoon: name = KzmFRYKT  year = 1995  legacy = DRAW, calculation = 249.38
+Fiction: name = WrjAsJHC  year = 1995  director = rTcmn , quotient = 249.38
+Cartoon: name = ixZdxKiX  year = 1996  legacy = PUPPET, calculation = 249.5
+Cartoon: name = frVLpdDN  year = 1996  legacy = PUPPET, calculation = 249.5
+Cartoon: name = zYslHCzu  year = 1998  legacy = PLASTICINE, calculation = 249.75
+Fiction: name = dBaxKkgt  year = 1998  director = PstAsLz , quotient = 249.75
+Fiction: name = PJkAxTlO  year = 1998  director = LLigpsS , quotient = 249.75
+Cartoon: name = YdqFIlYg  year = 1998  legacy = PLASTICINE, calculation = 249.75
+Fiction: name = QiwhXtck  year = 1999  director = kuqLopn , quotient = 249.88
+Fiction: name = qlFfXWBs  year = 1999  director = LEbXqUEOg , quotient = 249.88
+Cartoon: name = gogJJFHT  year = 1999  legacy = DRAW, calculation = 249.88
+Cartoon: name = iFlAaPiL  year = 2000  legacy = PUPPET, calculation = 250.0
+Fiction: name = mPTqkjeO  year = 2000  director = jlPLsC , quotient = 250.0
+Fiction: name = afpPjulK  year = 2000  director = psdricNq , quotient = 250.0
+Documentary: name = SqyQqUBV  year = 2001  duration = 84 , calculation = 250.12
+Fiction: name = pyQGnVEu  year = 2002  director = sROsPdg , quotient = 250.25
+Documentary: name = bFHPsujY  year = 2002  duration = 48 , calculation = 250.25
+Documentary: name = cRcCUMod  year = 2003  duration = 66 , calculation = 250.38
+Fiction: name = YpFsTmpz  year = 2003  director = CnENKnlIa , quotient = 250.38
+Cartoon: name = naczHESf  year = 2003  legacy = PLASTICINE, calculation = 250.38
+Cartoon: name = FBszEqKV  year = 2004  legacy = PUPPET, calculation = 250.5
+Documentary: name = IUaMDAaT  year = 2004  duration = 63 , calculation = 250.5
+Documentary: name = bppENxjP  year = 2006  duration = 29 , calculation = 250.75
+Cartoon: name = AbKpxaNd  year = 2006  legacy = DRAW, calculation = 250.75
+Documentary: name = DKnGgWQc  year = 2006  duration = 49 , calculation = 250.75
+Fiction: name = kriDwWTm  year = 2006  director = ZmfMi , quotient = 250.75
+Documentary: name = gYHGNxoV  year = 2007  duration = 64 , calculation = 250.88
+Cartoon: name = EhDCgyEd  year = 2008  legacy = PUPPET, calculation = 251.0
+Documentary: name = wnLJyyoB  year = 2008  duration = 20 , calculation = 251.0
+Cartoon: name = XrzzoOaR  year = 2009  legacy = PLASTICINE, calculation = 251.12
+Fiction: name = TnTtKViP  year = 2009  director = hjfrGEvLCh , quotient = 251.12
+Documentary: name = txVuXSwD  year = 2009  duration = 14 , calculation = 251.12
+Cartoon: name = JLCWOjTl  year = 2009  legacy = PLASTICINE, calculation = 251.12
+Fiction: name = fshQoVdT  year = 2009  director = JNriRQuA , quotient = 251.12
+Documentary: name = yibqwTob  year = 2010  duration = 77 , calculation = 251.25
+Documentary: name = MULiSiBh  year = 2010  duration = 22 , calculation = 251.25
+Fiction: name = XQxVfzOx  year = 2010  director = dfpnXAkTo , quotient = 251.25
+Documentary: name = beFdfHBR  year = 2011  duration = 52 , calculation = 251.38
+Fiction: name = kSyIMrcC  year = 2013  director = GDcacO , quotient = 251.62
+Documentary: name = sxCwGSql  year = 2013  duration = 89 , calculation = 251.62
+Fiction: name = PZiwxoDi  year = 2013  director = BJeypVShL , quotient = 251.62
+Documentary: name = KkAZoVJC  year = 2013  duration = 91 , calculation = 251.62
+Documentary: name = WuTqKAnB  year = 2014  duration = 79 , calculation = 251.75
+Cartoon: name = KNiPfDns  year = 2014  legacy = PLASTICINE, calculation = 251.75
+Documentary: name = vlFksURG  year = 2015  duration = 53 , calculation = 251.88
+Documentary: name = ivOCkAHB  year = 2015  duration = 10 , calculation = 251.88
+Documentary: name = AdcNhQsN  year = 2015  duration = 91 , calculation = 251.88
+Documentary: name = PvjWEtHt  year = 2015  duration = 75 , calculation = 251.88
+Documentary: name = NWczjYpp  year = 2016  duration = 64 , calculation = 252.0
+Fiction: name = cSIQUnlI  year = 2016  director = pvNeCZM , quotient = 252.0
+Documentary: name = CJLiNceZ  year = 2017  duration = 90 , calculation = 252.12
+Cartoon: name = qmIjKryd  year = 2018  legacy = DRAW, calculation = 252.25
+Documentary: name = ChsvCVzf  year = 2018  duration = 82 , calculation = 252.25
+Fiction: name = TACjPDvR  year = 2019  director = IIQOtSLS , quotient = 252.38
+Cartoon: name = TPsfCJlG  year = 2019  legacy = DRAW, calculation = 252.38
+Fiction: name = EhUKKarJ  year = 2019  director = hjVrHkGak , quotient = 252.38
+Documentary: name = XPkyWTow  year = 2019  duration = 72 , calculation = 252.38
+Cartoon: name = cNBXHIKg  year = 2020  legacy = PUPPET, calculation = 252.5
+Fiction: name = WahnJkf  year = 1945  director = MuLuUoev , quotient = 277.86
+Cartoon: name = gpRskNF  year = 1946  legacy = PUPPET, calculation = 278.0
+Cartoon: name = vGOFKiA  year = 1947  legacy = PLASTICINE, calculation = 278.14
+Cartoon: name = DqlNiRb  year = 1947  legacy = PLASTICINE, calculation = 278.14
+Documentary: name = OMHQlRv  year = 1947  duration = 21 , calculation = 278.14
+Fiction: name = uayDLNo  year = 1948  director = IIbSLh , quotient = 278.29
+Cartoon: name = CaJUYUI  year = 1948  legacy = PLASTICINE, calculation = 278.29
+Fiction: name = YcdQQlf  year = 1948  director = zIUuhUlE , quotient = 278.29
+Cartoon: name = IwxSefi  year = 1948  legacy = PUPPET, calculation = 278.29
+Cartoon: name = jKJonGB  year = 1948  legacy = PLASTICINE, calculation = 278.29
+Fiction: name = yXfDlrd  year = 1948  director = mqLTZp , quotient = 278.29
+Fiction: name = OyQJkOv  year = 1949  director = lhkOwwYIe , quotient = 278.43
+Documentary: name = tgHPNhm  year = 1949  duration = 34 , calculation = 278.43
+Documentary: name = dEUaKHQ  year = 1949  duration = 32 , calculation = 278.43
+Cartoon: name = WyXvGzS  year = 1949  legacy = PLASTICINE, calculation = 278.43
+Documentary: name = pmZiGRm  year = 1950  duration = 17 , calculation = 278.57
+Fiction: name = fllyDrU  year = 1950  director = ZpuiTAW , quotient = 278.57
+Documentary: name = iaHjZCE  year = 1951  duration = 50 , calculation = 278.71
+Documentary: name = OTjkLYH  year = 1952  duration = 34 , calculation = 278.86
+Cartoon: name = SaNTIRL  year = 1953  legacy = DRAW, calculation = 279.0
+Documentary: name = RgbLaSF  year = 1953  duration = 65 , calculation = 279.0
+Fiction: name = dRzETFN  year = 1954  director = RRVoEedu , quotient = 279.14
+Documentary: name = KFBLwWp  year = 1954  duration = 54 , calculation = 279.14
+Cartoon: name = wFqesSs  year = 1954  legacy = DRAW, calculation = 279.14
+Fiction: name = nQtRSAT  year = 1954  director = FEMKg , quotient = 279.14
+Documentary: name = BMkpuAO  year = 1954  duration = 80 , calculation = 279.14
+Documentary: name = bjGzOjO  year = 1955  duration = 9 , calculation = 279.29
+Fiction: name = DWxdVvQ  year = 1956  director = gNXUUg , quotient = 279.43
+Documentary: name = MiFCqVu  year = 1956  duration = 68 , calculation = 279.43
+Documentary: name = jeszQIJ  year = 1957  duration = 38 , calculation = 279.57
+Fiction: name = cGZREBQ  year = 1957  director = TgtOuNEFzB , quotient = 279.57
+Documentary: name = wbqoDlZ  year = 1957  duration = 34 , calculation = 279.57
+Fiction: name = dVvOeSP  year = 1957  director = hYLidUqnRE , quotient = 279.57
+Cartoon: name = aniAZjY  year = 1959  legacy = PLASTICINE, calculation = 279.86
+Fiction: name = qIuUFzW  year = 1959  director = KeamjluBag , quotient = 279.86
+Fiction: name = DfjsszY  year = 1959  director = AmVPzGL , quotient = 279.86
+Cartoon: name = CiYHiXA  year = 1960  legacy = PUPPET, calculation = 280.0
+Documentary: name = BvfJgAv  year = 1960  duration = 6 , calculation = 280.0
+Documentary: name = QiScDYi  year = 1962  duration = 74 , calculation = 280.29
+Fiction: name = UtKSQTC  year = 1963  director = ZWbZd , quotient = 280.43
+Cartoon: name = mxDCnxh  year = 1963  legacy = PUPPET, calculation = 280.43
+Documentary: name = spvCgQV  year = 1964  duration = 33 , calculation = 280.57
+Cartoon: name = aYkbfWB  year = 1964  legacy = PUPPET, calculation = 280.57
+Fiction: name = xqJXLIs  year = 1964  director = nULel , quotient = 280.57
+Cartoon: name = yWbZcRL  year = 1964  legacy = DRAW, calculation = 280.57
+Fiction: name = MQSUucX  year = 1965  director = tgWUWFg , quotient = 280.71
+Documentary: name = EpXcwVF  year = 1965  duration = 76 , calculation = 280.71
+Fiction: name = wAyBAHs  year = 1965  director = cYBAaNuljw , quotient = 280.71
+Documentary: name = BTfUGUW  year = 1966  duration = 54 , calculation = 280.86
+Cartoon: name = SgIPKEX  year = 1966  legacy = PLASTICINE, calculation = 280.86
+Documentary: name = CmdMJCN  year = 1967  duration = 23 , calculation = 281.0
+Documentary: name = ftqCTpS  year = 1967  duration = 49 , calculation = 281.0
+Cartoon: name = XxcsRfS  year = 1968  legacy = PLASTICINE, calculation = 281.14
+Cartoon: name = CkYslZN  year = 1969  legacy = PUPPET, calculation = 281.29
+Documentary: name = zxBsxFe  year = 1970  duration = 86 , calculation = 281.43
+Cartoon: name = EkdYPpA  year = 1970  legacy = PLASTICINE, calculation = 281.43
+Cartoon: name = dlicyhe  year = 1970  legacy = DRAW, calculation = 281.43
+Documentary: name = csZnUBV  year = 1971  duration = 53 , calculation = 281.57
+Cartoon: name = tFlFuJo  year = 1971  legacy = DRAW, calculation = 281.57
+Documentary: name = IWGwinK  year = 1972  duration = 50 , calculation = 281.71
+Fiction: name = PtmfzHq  year = 1972  director = PHLva , quotient = 281.71
+Fiction: name = siGvZNK  year = 1972  director = KDyMxmGTue , quotient = 281.71
+Cartoon: name = SiqrYNX  year = 1972  legacy = PUPPET, calculation = 281.71
+Documentary: name = WJCkuEv  year = 1973  duration = 54 , calculation = 281.86
+Fiction: name = nhgvPvF  year = 1974  director = gBzIgO , quotient = 282.0
+Cartoon: name = jDVfXAA  year = 1974  legacy = DRAW, calculation = 282.0
+Cartoon: name = HePkxmv  year = 1974  legacy = PUPPET, calculation = 282.0
+Documentary: name = qpGQLZX  year = 1975  duration = 7 , calculation = 282.14
+Fiction: name = ZtgMnVb  year = 1975  director = JCfzJ , quotient = 282.14
+Fiction: name = XqJmKCG  year = 1976  director = mQemugY , quotient = 282.29
+Fiction: name = KvOVjAS  year = 1976  director = GBuXBmEiu , quotient = 282.29
+Documentary: name = SglVhIQ  year = 1977  duration = 42 , calculation = 282.43
+Cartoon: name = pXgfPGc  year = 1977  legacy = PUPPET, calculation = 282.43
+Cartoon: name = eIJTEUN  year = 1978  legacy = PLASTICINE, calculation = 282.57
+Cartoon: name = sHzqiql  year = 1978  legacy = PUPPET, calculation = 282.57
+Fiction: name = WkdzRCI  year = 1978  director = POyhCwpBf , quotient = 282.57
+Fiction: name = mnWsjPL  year = 1978  director = lPZPDSO , quotient = 282.57
+Cartoon: name = mjXycUe  year = 1979  legacy = PUPPET, calculation = 282.71
+Documentary: name = dasGaLD  year = 1979  duration = 11 , calculation = 282.71
+Cartoon: name = kyIAwuB  year = 1979  legacy = PLASTICINE, calculation = 282.71
+Cartoon: name = PYRsRWU  year = 1979  legacy = PLASTICINE, calculation = 282.71
+Cartoon: name = LPZDDLe  year = 1979  legacy = PUPPET, calculation = 282.71
+Documentary: name = FanwrKH  year = 1980  duration = 62 , calculation = 282.86
+Cartoon: name = zBtOlSY  year = 1980  legacy = DRAW, calculation = 282.86
+Cartoon: name = GLRWqpb  year = 1980  legacy = PLASTICINE, calculation = 282.86
+Cartoon: name = IiXlPrD  year = 1980  legacy = DRAW, calculation = 282.86
+Documentary: name = NlLndiB  year = 1982  duration = 66 , calculation = 283.14
+Cartoon: name = XzDjxPg  year = 1983  legacy = DRAW, calculation = 283.29
+Documentary: name = mBWwyHr  year = 1984  duration = 67 , calculation = 283.43
+Cartoon: name = QtGkiHw  year = 1984  legacy = PUPPET, calculation = 283.43
+Fiction: name = uyCMgtF  year = 1984  director = whhhASF , quotient = 283.43
+Cartoon: name = jnovlFl  year = 1985  legacy = DRAW, calculation = 283.57
+Documentary: name = hbkAbwq  year = 1985  duration = 11 , calculation = 283.57
+Cartoon: name = CNQcktX  year = 1986  legacy = DRAW, calculation = 283.71
+Cartoon: name = YbaWaOp  year = 1988  legacy = DRAW, calculation = 284.0
+Documentary: name = jRxeoyf  year = 1988  duration = 92 , calculation = 284.0
+Documentary: name = nEozcSd  year = 1989  duration = 12 , calculation = 284.14
+Cartoon: name = XdTeXNx  year = 1989  legacy = DRAW, calculation = 284.14
+Documentary: name = GxShHvN  year = 1990  duration = 27 , calculation = 284.29
+Documentary: name = rSQWlIx  year = 1990  duration = 89 , calculation = 284.29
+Cartoon: name = JEgwqdp  year = 1991  legacy = DRAW, calculation = 284.43
+Fiction: name = RCbvDNh  year = 1991  director = LBiUXWVM , quotient = 284.43
+Cartoon: name = njZVxRd  year = 1991  legacy = DRAW, calculation = 284.43
+Fiction: name = WCdPGqc  year = 1992  director = qIcwr , quotient = 284.57
+Documentary: name = pnaiDBU  year = 1993  duration = 29 , calculation = 284.71
+Cartoon: name = dIJlQov  year = 1993  legacy = PLASTICINE, calculation = 284.71
+Cartoon: name = mmtYamM  year = 1994  legacy = DRAW, calculation = 284.86
+Cartoon: name = ZohMfHh  year = 1994  legacy = PUPPET, calculation = 284.86
+Cartoon: name = hDiTAjz  year = 1994  legacy = PLASTICINE, calculation = 284.86
+Fiction: name = mujwLUm  year = 1994  director = chWYbCkygw , quotient = 284.86
+Documentary: name = btKZhzy  year = 1995  duration = 9 , calculation = 285.0
+Fiction: name = TjsJWAM  year = 1995  director = ztbhsTFaLw , quotient = 285.0
+Documentary: name = JrHVGuF  year = 1995  duration = 49 , calculation = 285.0
+Fiction: name = OOZVBmi  year = 1995  director = ghMRpoE , quotient = 285.0
+Cartoon: name = BDGXsTY  year = 1996  legacy = DRAW, calculation = 285.14
+Cartoon: name = FUjYjbm  year = 1996  legacy = PUPPET, calculation = 285.14
+Cartoon: name = emYunco  year = 1997  legacy = DRAW, calculation = 285.29
+Fiction: name = JdLSHmN  year = 1998  director = frIzaBzp , quotient = 285.43
+Fiction: name = XPiHAmg  year = 1998  director = CUkkehfv , quotient = 285.43
+Fiction: name = WzRttYK  year = 1999  director = bRCMgbXCD , quotient = 285.57
+Fiction: name = WSDZrjU  year = 1999  director = AfaawHtj , quotient = 285.57
+Cartoon: name = RVkzGWD  year = 2002  legacy = PLASTICINE, calculation = 286.0
+Fiction: name = pjVVjeD  year = 2002  director = XEOSOr , quotient = 286.0
+Fiction: name = uVGCBBD  year = 2002  director = DMrjZznv , quotient = 286.0
+Documentary: name = gdlcryy  year = 2004  duration = 76 , calculation = 286.29
+Fiction: name = EdtNdvX  year = 2004  director = TEkUPGV , quotient = 286.29
+Fiction: name = aUYqPkf  year = 2006  director = nJIoA , quotient = 286.57
+Fiction: name = GdjkKFs  year = 2006  director = IgDMFcNGIu , quotient = 286.57
+Cartoon: name = dNvPtZb  year = 2007  legacy = PUPPET, calculation = 286.71
+Cartoon: name = zoATmAJ  year = 2007  legacy = PLASTICINE, calculation = 286.71
+Documentary: name = mPCXrAQ  year = 2008  duration = 67 , calculation = 286.86
+Fiction: name = JWburnp  year = 2008  director = qINGD , quotient = 286.86
+Documentary: name = ygrkfpM  year = 2009  duration = 34 , calculation = 287.0
+Fiction: name = EOFuoXY  year = 2009  director = NAmzQh , quotient = 287.0
+Fiction: name = sKDczom  year = 2011  director = dkuqN , quotient = 287.29
+Cartoon: name = nmSgyWX  year = 2011  legacy = PUPPET, calculation = 287.29
+Cartoon: name = FdnnPmf  year = 2011  legacy = DRAW, calculation = 287.29
+Documentary: name = CbejyXO  year = 2011  duration = 59 , calculation = 287.29
+Cartoon: name = wqfeCTz  year = 2012  legacy = DRAW, calculation = 287.43
+Documentary: name = FZFTmBt  year = 2012  duration = 42 , calculation = 287.43
+Fiction: name = KFsdIIc  year = 2012  director = EpUCamNvlY , quotient = 287.43
+Fiction: name = IiOKiKZ  year = 2012  director = EzYMua , quotient = 287.43
+Cartoon: name = tqtHLFk  year = 2013  legacy = PUPPET, calculation = 287.57
+Documentary: name = ZdxRtzL  year = 2013  duration = 48 , calculation = 287.57
+Fiction: name = kqDEwtw  year = 2013  director = NxMDGFVCL , quotient = 287.57
+Fiction: name = HQrWAnn  year = 2014  director = gCCSjL , quotient = 287.71
+Cartoon: name = wIkuDjM  year = 2014  legacy = DRAW, calculation = 287.71
+Documentary: name = OdeYYHj  year = 2014  duration = 98 , calculation = 287.71
+Fiction: name = fDqEWOT  year = 2014  director = pTJxe , quotient = 287.71
+Fiction: name = sbCqrMu  year = 2015  director = ylYgJl , quotient = 287.86
+Cartoon: name = hOBpIpk  year = 2015  legacy = PUPPET, calculation = 287.86
+Documentary: name = EgBbhIl  year = 2015  duration = 43 , calculation = 287.86
+Fiction: name = xQEzQXW  year = 2015  director = rJqEcQLw , quotient = 287.86
+Documentary: name = iFrZwra  year = 2015  duration = 93 , calculation = 287.86
+Documentary: name = YCIfTQn  year = 2016  duration = 50 , calculation = 288.0
+Cartoon: name = kRVNYrD  year = 2016  legacy = PUPPET, calculation = 288.0
+Cartoon: name = oIhFtJK  year = 2016  legacy = PUPPET, calculation = 288.0
+Cartoon: name = WbtqgWE  year = 2017  legacy = PUPPET, calculation = 288.14
+Cartoon: name = aonvptm  year = 2017  legacy = DRAW, calculation = 288.14
+Fiction: name = taWzUgf  year = 2018  director = wfYgNrZyXP , quotient = 288.29
+Documentary: name = omaOcXm  year = 2018  duration = 12 , calculation = 288.29
+Fiction: name = jtgBNNc  year = 2018  director = NkyMRp , quotient = 288.29
+Fiction: name = KvfmBcx  year = 2019  director = XwhuAzbbqA , quotient = 288.43
+Cartoon: name = kYPfEuV  year = 2019  legacy = PUPPET, calculation = 288.43
+Documentary: name = FuZRlhQ  year = 2019  duration = 51 , calculation = 288.43
+Fiction: name = RvyKhKr  year = 2019  director = GIgkBgcYI , quotient = 288.43
+Fiction: name = ketStVI  year = 2019  director = lytYQPLuD , quotient = 288.43
+Fiction: name = QoazrDJ  year = 2020  director = TQhok , quotient = 288.57
+Cartoon: name = icdsCGg  year = 2020  legacy = PLASTICINE, calculation = 288.57
+Documentary: name = alDxBvf  year = 2020  duration = 13 , calculation = 288.57
+Documentary: name = zOZUlZ  year = 1945  duration = 6 , calculation = 324.17
+Cartoon: name = yUuiND  year = 1946  legacy = PUPPET, calculation = 324.33
+Fiction: name = LhxWOC  year = 1946  director = UQLhdMaYO , quotient = 324.33
+Documentary: name = ZFnhxZ  year = 1946  duration = 54 , calculation = 324.33
+Fiction: name = iMWChr  year = 1948  director = MPObgk , quotient = 324.67
+Cartoon: name = VyYeIm  year = 1948  legacy = PUPPET, calculation = 324.67
+Fiction: name = yKwoyK  year = 1948  director = MkADwSVG , quotient = 324.67
+Fiction: name = vOZvJl  year = 1949  director = KYPuemkDC , quotient = 324.83
+Cartoon: name = lpGKHg  year = 1949  legacy = DRAW, calculation = 324.83
+Fiction: name = bcNuNc  year = 1950  director = dMdOpuLsF , quotient = 325.0
+Cartoon: name = XUKfxa  year = 1950  legacy = DRAW, calculation = 325.0
+Fiction: name = CRSTDG  year = 1950  director = JZbeiadlR , quotient = 325.0
+Cartoon: name = LASyga  year = 1951  legacy = DRAW, calculation = 325.17
+Documentary: name = tdKDal  year = 1951  duration = 51 , calculation = 325.17
+Fiction: name = eRxjAG  year = 1952  director = SyvXBYxQ , quotient = 325.33
+Fiction: name = UOStJK  year = 1952  director = xBfrNsqhv , quotient = 325.33
+Fiction: name = DHChRa  year = 1952  director = OdzusdMx , quotient = 325.33
+Documentary: name = KyNSnH  year = 1953  duration = 92 , calculation = 325.5
+Documentary: name = zVIyCR  year = 1953  duration = 90 , calculation = 325.5
+Cartoon: name = tWzhOK  year = 1953  legacy = PLASTICINE, calculation = 325.5
+Fiction: name = TrTxLn  year = 1953  director = UDPThLH , quotient = 325.5
+Cartoon: name = cimahe  year = 1953  legacy = DRAW, calculation = 325.5
+Cartoon: name = QtOlPs  year = 1954  legacy = PLASTICINE, calculation = 325.67
+Cartoon: name = BfRJUn  year = 1954  legacy = PLASTICINE, calculation = 325.67
+Cartoon: name = MNhFOd  year = 1954  legacy = PLASTICINE, calculation = 325.67
+Documentary: name = QsZupq  year = 1955  duration = 73 , calculation = 325.83
+Fiction: name = GUFwgn  year = 1955  director = vaHurM , quotient = 325.83
+Cartoon: name = nyrzdV  year = 1956  legacy = PUPPET, calculation = 326.0
+Fiction: name = VJEXmc  year = 1956  director = HQFqDDU , quotient = 326.0
+Documentary: name = frmAEA  year = 1957  duration = 64 , calculation = 326.17
+Cartoon: name = iVQsRU  year = 1957  legacy = PLASTICINE, calculation = 326.17
+Documentary: name = YumtXj  year = 1957  duration = 70 , calculation = 326.17
+Documentary: name = KVMzcx  year = 1957  duration = 8 , calculation = 326.17
+Cartoon: name = yQtVZH  year = 1957  legacy = DRAW, calculation = 326.17
+Fiction: name = wOlEoc  year = 1957  director = PhyoUol , quotient = 326.17
+Cartoon: name = dibzOY  year = 1958  legacy = PLASTICINE, calculation = 326.33
+Fiction: name = nkigBr  year = 1958  director = zgDAHN , quotient = 326.33
+Cartoon: name = YdGqgs  year = 1959  legacy = PUPPET, calculation = 326.5
+Cartoon: name = WXmfSm  year = 1960  legacy = PLASTICINE, calculation = 326.67
+Fiction: name = ThopEp  year = 1960  director = kogjWtChl , quotient = 326.67
+Documentary: name = ccxbqz  year = 1960  duration = 44 , calculation = 326.67
+Documentary: name = JBRHyM  year = 1960  duration = 25 , calculation = 326.67
+Documentary: name = GflNom  year = 1961  duration = 92 , calculation = 326.83
+Documentary: name = VLjzFr  year = 1961  duration = 13 , calculation = 326.83
+Cartoon: name = VxeNNO  year = 1962  legacy = DRAW, calculation = 327.0
+Cartoon: name = FXagwd  year = 1962  legacy = PLASTICINE, calculation = 327.0
+Cartoon: name = qQgmRs  year = 1963  legacy = PUPPET, calculation = 327.17
+Documentary: name = ZoTrFG  year = 1963  duration = 86 , calculation = 327.17
+Fiction: name = DwcwFa  year = 1963  director = ceBlmBOOcp , quotient = 327.17
+Cartoon: name = fTTwcK  year = 1964  legacy = PLASTICINE, calculation = 327.33
+Cartoon: name = cnRsge  year = 1964  legacy = DRAW, calculation = 327.33
+Documentary: name = QIFrGp  year = 1964  duration = 39 , calculation = 327.33
+Fiction: name = tUGWHb  year = 1964  director = EPVayFyhrV , quotient = 327.33
+Documentary: name = uehOjp  year = 1965  duration = 45 , calculation = 327.5
+Cartoon: name = zYEYcO  year = 1966  legacy = DRAW, calculation = 327.67
+Cartoon: name = JRLZmb  year = 1966  legacy = PUPPET, calculation = 327.67
+Fiction: name = gZKFyX  year = 1966  director = KVYErb , quotient = 327.67
+Cartoon: name = fiugVe  year = 1966  legacy = PUPPET, calculation = 327.67
+Documentary: name = SNYVPs  year = 1967  duration = 50 , calculation = 327.83
+Fiction: name = hmiSHJ  year = 1967  director = ODwLhvm , quotient = 327.83
+Cartoon: name = BcRNyv  year = 1968  legacy = PUPPET, calculation = 328.0
+Cartoon: name = gHlmed  year = 1968  legacy = PLASTICINE, calculation = 328.0
+Fiction: name = lAWbnI  year = 1969  director = dkbbQezl , quotient = 328.17
+Fiction: name = QKzrKO  year = 1970  director = xANmj , quotient = 328.33
+Documentary: name = lsHekE  year = 1970  duration = 92 , calculation = 328.33
+Fiction: name = WqzONM  year = 1971  director = zQHjaF , quotient = 328.5
+Cartoon: name = xegXdM  year = 1971  legacy = PUPPET, calculation = 328.5
+Documentary: name = sgFMZr  year = 1971  duration = 74 , calculation = 328.5
+Cartoon: name = EOOzuJ  year = 1973  legacy = DRAW, calculation = 328.83
+Cartoon: name = dFcfSP  year = 1974  legacy = DRAW, calculation = 329.0
+Cartoon: name = wmUjaz  year = 1976  legacy = PLASTICINE, calculation = 329.33
+Cartoon: name = SERnEu  year = 1976  legacy = PUPPET, calculation = 329.33
+Fiction: name = ekiCQz  year = 1976  director = EwijtZqOea , quotient = 329.33
+Fiction: name = MzJZMe  year = 1977  director = HVSTRE , quotient = 329.5
+Fiction: name = uFJsdy  year = 1977  director = KkVBmY , quotient = 329.5
+Fiction: name = yUdmug  year = 1978  director = XIxODvl , quotient = 329.67
+Documentary: name = NEJqMl  year = 1978  duration = 99 , calculation = 329.67
+Documentary: name = ExXVgM  year = 1979  duration = 94 , calculation = 329.83
+Fiction: name = bVxFgX  year = 1979  director = Vzddf , quotient = 329.83
+Fiction: name = keeYoa  year = 1979  director = QOFdBNfp , quotient = 329.83
+Cartoon: name = BtYsTy  year = 1981  legacy = PUPPET, calculation = 330.17
+Fiction: name = uFFolD  year = 1981  director = ZkzVhbhGq , quotient = 330.17
+Fiction: name = yudnnb  year = 1981  director = wOYuMhSSPT , quotient = 330.17
+Fiction: name = hGllwP  year = 1981  director = slskglV , quotient = 330.17
+Fiction: name = NvCmNS  year = 1982  director = keBJZWsEA , quotient = 330.33
+Fiction: name = IHBauo  year = 1982  director = XZpukgQdOr , quotient = 330.33
+Documentary: name = xFjgMk  year = 1982  duration = 87 , calculation = 330.33
+Fiction: name = GkHCfL  year = 1983  director = VvAHyhypj , quotient = 330.5
+Documentary: name = PibFLJ  year = 1983  duration = 85 , calculation = 330.5
+Fiction: name = ldrVaB  year = 1983  director = dvMbcHWFZ , quotient = 330.5
+Fiction: name = FkIXoZ  year = 1983  director = fkrlIosH , quotient = 330.5
+Documentary: name = uZaeGu  year = 1984  duration = 86 , calculation = 330.67
+Cartoon: name = UppDvf  year = 1984  legacy = DRAW, calculation = 330.67
+Fiction: name = LpIPFW  year = 1985  director = bnHnWGg , quotient = 330.83
+Documentary: name = PiJVyd  year = 1985  duration = 40 , calculation = 330.83
+Documentary: name = tyUykV  year = 1985  duration = 75 , calculation = 330.83
+Cartoon: name = nuCvGe  year = 1985  legacy = PUPPET, calculation = 330.83
+Documentary: name = FQQMZC  year = 1986  duration = 85 , calculation = 331.0
+Documentary: name = CLZWKp  year = 1987  duration = 62 , calculation = 331.17
+Documentary: name = HWMrje  year = 1987  duration = 19 , calculation = 331.17
+Documentary: name = SCJpAd  year = 1989  duration = 12 , calculation = 331.5
+Fiction: name = rtFcVa  year = 1990  director = YENHWX , quotient = 331.67
+Documentary: name = PXnqMS  year = 1992  duration = 90 , calculation = 332.0
+Cartoon: name = kEtvjY  year = 1992  legacy = PUPPET, calculation = 332.0
+Fiction: name = BofNAw  year = 1992  director = bJSnXtcq , quotient = 332.0
+Fiction: name = EgvMGY  year = 1993  director = maDyFQOno , quotient = 332.17
+Documentary: name = ewSBVf  year = 1993  duration = 79 , calculation = 332.17
+Cartoon: name = kcuvQi  year = 1993  legacy = PUPPET, calculation = 332.17
+Cartoon: name = ORTrcl  year = 1993  legacy = DRAW, calculation = 332.17
+Cartoon: name = MuWdFr  year = 1994  legacy = PLASTICINE, calculation = 332.33
+Cartoon: name = yOZAop  year = 1994  legacy = DRAW, calculation = 332.33
+Cartoon: name = jodFmY  year = 1994  legacy = DRAW, calculation = 332.33
+Documentary: name = abLbph  year = 1995  duration = 13 , calculation = 332.5
+Documentary: name = LEXBcy  year = 1995  duration = 84 , calculation = 332.5
+Cartoon: name = oFQaml  year = 1996  legacy = PLASTICINE, calculation = 332.67
+Documentary: name = duhupu  year = 1997  duration = 38 , calculation = 332.83
+Fiction: name = WVHuXt  year = 1997  director = SiPUCTzee , quotient = 332.83
+Cartoon: name = sOFZvp  year = 1998  legacy = PLASTICINE, calculation = 333.0
+Fiction: name = dNdGrx  year = 1998  director = UvPwj , quotient = 333.0
+Cartoon: name = FSKJMY  year = 1999  legacy = DRAW, calculation = 333.17
+Documentary: name = hTPuWs  year = 1999  duration = 92 , calculation = 333.17
+Cartoon: name = OkZXZC  year = 1999  legacy = PLASTICINE, calculation = 333.17
+Fiction: name = LjISAc  year = 1999  director = CkKueu , quotient = 333.17
+Cartoon: name = VsRdgs  year = 2000  legacy = PLASTICINE, calculation = 333.33
+Cartoon: name = EXDVIw  year = 2000  legacy = PLASTICINE, calculation = 333.33
+Documentary: name = PYcSKt  year = 2001  duration = 29 , calculation = 333.5
+Fiction: name = NtmLpB  year = 2001  director = rsLTqzu , quotient = 333.5
+Documentary: name = lmsGDU  year = 2001  duration = 80 , calculation = 333.5
+Cartoon: name = hKPCgC  year = 2001  legacy = PLASTICINE, calculation = 333.5
+Documentary: name = iAyTAC  year = 2005  duration = 54 , calculation = 334.17
+Fiction: name = ZSmEeF  year = 2007  director = WWZWZNoy , quotient = 334.5
+Documentary: name = ifzCwr  year = 2007  duration = 95 , calculation = 334.5
+Documentary: name = wiSyEd  year = 2008  duration = 71 , calculation = 334.67
+Documentary: name = NErAcv  year = 2011  duration = 44 , calculation = 335.17
+Fiction: name = FKxwyP  year = 2011  director = geSpkp , quotient = 335.17
+Cartoon: name = tqrfQa  year = 2011  legacy = PUPPET, calculation = 335.17
+Cartoon: name = UqaxSt  year = 2011  legacy = PUPPET, calculation = 335.17
+Fiction: name = lZledx  year = 2012  director = dOjLq , quotient = 335.33
+Fiction: name = PDShkm  year = 2012  director = HmzdqzwByD , quotient = 335.33
+Fiction: name = rwiCzH  year = 2013  director = WuUWRF , quotient = 335.5
+Documentary: name = WmuxmR  year = 2014  duration = 51 , calculation = 335.67
+Fiction: name = LQqzOx  year = 2015  director = jSYVRBeep , quotient = 335.83
+Fiction: name = LOEueq  year = 2015  director = xwVuXNTetr , quotient = 335.83
+Fiction: name = EIYDvJ  year = 2015  director = uMKmlS , quotient = 335.83
+Cartoon: name = YsoArd  year = 2016  legacy = PLASTICINE, calculation = 336.0
+Fiction: name = BzEqWR  year = 2016  director = FYwgzLcKA , quotient = 336.0
+Fiction: name = NDagFk  year = 2018  director = OWVjGl , quotient = 336.33
+Fiction: name = dmcRXF  year = 2019  director = TgudW , quotient = 336.5
+Fiction: name = ibyBXg  year = 2019  director = sqjzuMLJ , quotient = 336.5
+Fiction: name = ywsalD  year = 2020  director = lLFIvtgAO , quotient = 336.67
+Cartoon: name = AIHWv  year = 1945  legacy = DRAW, calculation = 389.0
+Fiction: name = mENoe  year = 1945  director = BavkhDaJ , quotient = 389.0
+Cartoon: name = crLqi  year = 1946  legacy = PLASTICINE, calculation = 389.2
+Fiction: name = QEpXr  year = 1946  director = YFeeraX , quotient = 389.2
+Documentary: name = xVhqC  year = 1946  duration = 34 , calculation = 389.2
+Cartoon: name = iszcA  year = 1946  legacy = PLASTICINE, calculation = 389.2
+Cartoon: name = SRHnK  year = 1946  legacy = DRAW, calculation = 389.2
+Fiction: name = alrbO  year = 1946  director = RIOkHZPbNc , quotient = 389.2
+Fiction: name = vLUti  year = 1946  director = MSmMk , quotient = 389.2
+Fiction: name = BggNL  year = 1947  director = xCISIckUK , quotient = 389.4
+Documentary: name = rCSXI  year = 1947  duration = 72 , calculation = 389.4
+Fiction: name = huuZA  year = 1947  director = FTvdvxbQVI , quotient = 389.4
+Fiction: name = iuoNT  year = 1948  director = ariGbNjgQt , quotient = 389.6
+Cartoon: name = mtftc  year = 1948  legacy = PUPPET, calculation = 389.6
+Cartoon: name = oLcRD  year = 1949  legacy = DRAW, calculation = 389.8
+Fiction: name = gWIFg  year = 1951  director = bMGRujmeO , quotient = 390.2
+Documentary: name = ZRdSL  year = 1952  duration = 58 , calculation = 390.4
+Fiction: name = RIIdc  year = 1953  director = kbwwCRDq , quotient = 390.6
+Fiction: name = Mrwxu  year = 1953  director = NfBFWqrqW , quotient = 390.6
+Documentary: name = nkDIq  year = 1954  duration = 70 , calculation = 390.8
+Documentary: name = ZRIOe  year = 1955  duration = 65 , calculation = 391.0
+Cartoon: name = neuNF  year = 1955  legacy = PLASTICINE, calculation = 391.0
+Cartoon: name = uhgEA  year = 1955  legacy = PUPPET, calculation = 391.0
+Cartoon: name = DLNUX  year = 1956  legacy = PLASTICINE, calculation = 391.2
+Cartoon: name = YkJLP  year = 1956  legacy = PUPPET, calculation = 391.2
+Fiction: name = TYbCN  year = 1956  director = mAVME , quotient = 391.2
+Fiction: name = jvVJo  year = 1956  director = JpEHL , quotient = 391.2
+Cartoon: name = IaCUD  year = 1956  legacy = DRAW, calculation = 391.2
+Documentary: name = RfXQy  year = 1957  duration = 61 , calculation = 391.4
+Cartoon: name = CvHJY  year = 1957  legacy = PUPPET, calculation = 391.4
+Documentary: name = ifcdd  year = 1958  duration = 77 , calculation = 391.6
+Documentary: name = dqGjO  year = 1958  duration = 88 , calculation = 391.6
+Documentary: name = zocAR  year = 1959  duration = 18 , calculation = 391.8
+Documentary: name = WcnUq  year = 1959  duration = 99 , calculation = 391.8
+Documentary: name = vKxbw  year = 1959  duration = 96 , calculation = 391.8
+Fiction: name = RXXKa  year = 1959  director = bQCFsNF , quotient = 391.8
+Cartoon: name = xqqZj  year = 1960  legacy = PUPPET, calculation = 392.0
+Documentary: name = AtyJV  year = 1961  duration = 18 , calculation = 392.2
+Cartoon: name = cgMGL  year = 1962  legacy = DRAW, calculation = 392.4
+Fiction: name = cPBtc  year = 1962  director = HFBGJdbG , quotient = 392.4
+Fiction: name = ivwVf  year = 1963  director = IFEqkUh , quotient = 392.6
+Cartoon: name = IHhCX  year = 1963  legacy = DRAW, calculation = 392.6
+Cartoon: name = FNJGb  year = 1963  legacy = PLASTICINE, calculation = 392.6
+Fiction: name = oduTC  year = 1963  director = oimnBH , quotient = 392.6
+Fiction: name = wuWpj  year = 1964  director = pJUfFetlm , quotient = 392.8
+Cartoon: name = CiVKl  year = 1964  legacy = PUPPET, calculation = 392.8
+Cartoon: name = MGIPS  year = 1964  legacy = PLASTICINE, calculation = 392.8
+Cartoon: name = OOKSp  year = 1965  legacy = DRAW, calculation = 393.0
+Fiction: name = ytgio  year = 1965  director = XDzCCLOcxZ , quotient = 393.0
+Documentary: name = NvHsq  year = 1965  duration = 85 , calculation = 393.0
+Fiction: name = sEfOF  year = 1966  director = wFvjtoSt , quotient = 393.2
+Fiction: name = CHwAn  year = 1966  director = yITyGfKkF , quotient = 393.2
+Documentary: name = CvgVP  year = 1966  duration = 42 , calculation = 393.2
+Cartoon: name = PyhKv  year = 1966  legacy = PLASTICINE, calculation = 393.2
+Fiction: name = dxRSi  year = 1966  director = NvcnQHNpg , quotient = 393.2
+Cartoon: name = Pqeor  year = 1967  legacy = PUPPET, calculation = 393.4
+Cartoon: name = AThtl  year = 1967  legacy = PLASTICINE, calculation = 393.4
+Documentary: name = VxOKF  year = 1968  duration = 94 , calculation = 393.6
+Fiction: name = TpaZl  year = 1969  director = dmRidC , quotient = 393.8
+Documentary: name = tqofC  year = 1969  duration = 43 , calculation = 393.8
+Documentary: name = lBnAE  year = 1969  duration = 53 , calculation = 393.8
+Documentary: name = pjmcw  year = 1970  duration = 21 , calculation = 394.0
+Cartoon: name = Ocdpu  year = 1970  legacy = PUPPET, calculation = 394.0
+Documentary: name = ISnMQ  year = 1971  duration = 44 , calculation = 394.2
+Documentary: name = tfsrQ  year = 1971  duration = 88 , calculation = 394.2
+Fiction: name = NBsgu  year = 1972  director = AfApLwr , quotient = 394.4
+Cartoon: name = HLuXh  year = 1972  legacy = PLASTICINE, calculation = 394.4
+Fiction: name = qboHl  year = 1972  director = jeAixqKLm , quotient = 394.4
+Documentary: name = MpVLe  year = 1972  duration = 24 , calculation = 394.4
+Cartoon: name = oGaar  year = 1972  legacy = PLASTICINE, calculation = 394.4
+Fiction: name = EiEXf  year = 1974  director = ytVkoBH , quotient = 394.8
+Fiction: name = ySrJS  year = 1974  director = OgtpNTcxlj , quotient = 394.8
+Fiction: name = qdoQx  year = 1975  director = WPFNQVIadg , quotient = 395.0
+Fiction: name = Cmehg  year = 1975  director = OZBDm , quotient = 395.0
+Documentary: name = CPcOV  year = 1975  duration = 26 , calculation = 395.0
+Cartoon: name = tStoP  year = 1975  legacy = PUPPET, calculation = 395.0
+Documentary: name = TgcmI  year = 1975  duration = 16 , calculation = 395.0
+Documentary: name = sQWmu  year = 1976  duration = 14 , calculation = 395.2
+Documentary: name = hocJj  year = 1976  duration = 93 , calculation = 395.2
+Documentary: name = jvrLI  year = 1976  duration = 37 , calculation = 395.2
+Cartoon: name = xiUtD  year = 1976  legacy = DRAW, calculation = 395.2
+Cartoon: name = UuQUU  year = 1977  legacy = PUPPET, calculation = 395.4
+Documentary: name = yWOdA  year = 1978  duration = 37 , calculation = 395.6
+Cartoon: name = YJKwv  year = 1978  legacy = DRAW, calculation = 395.6
+Cartoon: name = VANHI  year = 1979  legacy = PUPPET, calculation = 395.8
+Cartoon: name = LgiKs  year = 1979  legacy = DRAW, calculation = 395.8
+Documentary: name = rEsjL  year = 1980  duration = 58 , calculation = 396.0
+Cartoon: name = QdgBm  year = 1980  legacy = PLASTICINE, calculation = 396.0
+Fiction: name = nJIhB  year = 1981  director = wysRARQr , quotient = 396.2
+Fiction: name = NgaEy  year = 1981  director = TTHNYzrDb , quotient = 396.2
+Cartoon: name = qFgOv  year = 1981  legacy = DRAW, calculation = 396.2
+Fiction: name = PjhZI  year = 1981  director = OeRNgP , quotient = 396.2
+Fiction: name = jyZWs  year = 1981  director = ecfxBexQsi , quotient = 396.2
+Documentary: name = xUwNW  year = 1982  duration = 32 , calculation = 396.4
+Fiction: name = sXHSl  year = 1984  director = zVOELYH , quotient = 396.8
+Fiction: name = olcwn  year = 1984  director = oqwgfx , quotient = 396.8
+Documentary: name = qMqOK  year = 1984  duration = 37 , calculation = 396.8
+Documentary: name = IDoMd  year = 1984  duration = 21 , calculation = 396.8
+Cartoon: name = sIJga  year = 1984  legacy = PUPPET, calculation = 396.8
+Documentary: name = KECcv  year = 1984  duration = 42 , calculation = 396.8
+Fiction: name = HzCod  year = 1985  director = MdcUMaa , quotient = 397.0
+Fiction: name = FByJF  year = 1987  director = HQtjmViLA , quotient = 397.4
+Cartoon: name = nRKfV  year = 1987  legacy = PLASTICINE, calculation = 397.4
+Fiction: name = weuIK  year = 1988  director = yiQCASuMa , quotient = 397.6
+Documentary: name = WncvE  year = 1988  duration = 63 , calculation = 397.6
+Documentary: name = NdNxA  year = 1988  duration = 38 , calculation = 397.6
+Documentary: name = gnqEH  year = 1988  duration = 64 , calculation = 397.6
+Documentary: name = iHVIc  year = 1988  duration = 65 , calculation = 397.6
+Fiction: name = dSREC  year = 1988  director = yJCAk , quotient = 397.6
+Documentary: name = JnkOg  year = 1988  duration = 47 , calculation = 397.6
+Cartoon: name = Dmswf  year = 1988  legacy = PLASTICINE, calculation = 397.6
+Cartoon: name = AlJFc  year = 1989  legacy = PLASTICINE, calculation = 397.8
+Documentary: name = vARoL  year = 1989  duration = 88 , calculation = 397.8
+Documentary: name = gDGwp  year = 1989  duration = 80 , calculation = 397.8
+Documentary: name = VhRvt  year = 1990  duration = 71 , calculation = 398.0
+Cartoon: name = pcbEY  year = 1990  legacy = DRAW, calculation = 398.0
+Fiction: name = onmdY  year = 1991  director = BxSQpXWU , quotient = 398.2
+Documentary: name = AgtqQ  year = 1991  duration = 87 , calculation = 398.2
+Documentary: name = oAegl  year = 1991  duration = 28 , calculation = 398.2
+Cartoon: name = tpiia  year = 1991  legacy = PLASTICINE, calculation = 398.2
+Documentary: name = tXhtB  year = 1992  duration = 9 , calculation = 398.4
+Cartoon: name = qikrn  year = 1995  legacy = PUPPET, calculation = 399.0
+Fiction: name = TFlpX  year = 1996  director = sLSYJXIBK , quotient = 399.2
+Fiction: name = yBTBL  year = 1996  director = oyAyHvxyop , quotient = 399.2
+Documentary: name = ncuZK  year = 1996  duration = 58 , calculation = 399.2
+Fiction: name = NrvoY  year = 1997  director = OHXjZ , quotient = 399.4
+Cartoon: name = KxmVT  year = 1997  legacy = PUPPET, calculation = 399.4
+Fiction: name = ppBFL  year = 1998  director = TXhrncjYY , quotient = 399.6
+Cartoon: name = hgmbM  year = 1998  legacy = DRAW, calculation = 399.6
+Fiction: name = dYtKZ  year = 1999  director = iCySUUk , quotient = 399.8
+Cartoon: name = QSChf  year = 1999  legacy = DRAW, calculation = 399.8
+Fiction: name = hfTxN  year = 2000  director = jQZxEqX , quotient = 400.0
+Fiction: name = cWqqu  year = 2001  director = gpfhxrYzw , quotient = 400.2
+Fiction: name = UkOEa  year = 2001  director = iEoXKyZR , quotient = 400.2
+Documentary: name = Pecye  year = 2002  duration = 88 , calculation = 400.4
+Fiction: name = NUDez  year = 2002  director = uUyeYUBDp , quotient = 400.4
+Fiction: name = RDkPN  year = 2002  director = JvJntGvjqa , quotient = 400.4
+Fiction: name = WaJdZ  year = 2002  director = YJQnTZ , quotient = 400.4
+Cartoon: name = BcwRV  year = 2003  legacy = PLASTICINE, calculation = 400.6
+Cartoon: name = gsLds  year = 2003  legacy = PLASTICINE, calculation = 400.6
+Documentary: name = xgMkg  year = 2003  duration = 58 , calculation = 400.6
+Fiction: name = THiOL  year = 2004  director = WwwKmR , quotient = 400.8
+Cartoon: name = rbMDu  year = 2004  legacy = DRAW, calculation = 400.8
+Documentary: name = CAWGO  year = 2004  duration = 44 , calculation = 400.8
+Cartoon: name = ENSCw  year = 2004  legacy = DRAW, calculation = 400.8
+Documentary: name = RIIss  year = 2004  duration = 60 , calculation = 400.8
+Cartoon: name = nwTWQ  year = 2005  legacy = DRAW, calculation = 401.0
+Documentary: name = HiRLs  year = 2005  duration = 8 , calculation = 401.0
+Fiction: name = kEKvF  year = 2005  director = gdGULdZJ , quotient = 401.0
+Cartoon: name = exkpj  year = 2005  legacy = PLASTICINE, calculation = 401.0
+Cartoon: name = JVjkb  year = 2006  legacy = PLASTICINE, calculation = 401.2
+Cartoon: name = LySWC  year = 2007  legacy = DRAW, calculation = 401.4
+Cartoon: name = EWbMb  year = 2008  legacy = DRAW, calculation = 401.6
+Fiction: name = CfoBl  year = 2008  director = EjRCwopTrm , quotient = 401.6
+Documentary: name = HjjDv  year = 2008  duration = 39 , calculation = 401.6
+Cartoon: name = GzEjM  year = 2008  legacy = DRAW, calculation = 401.6
+Cartoon: name = eqkWs  year = 2008  legacy = PUPPET, calculation = 401.6
+Cartoon: name = gNhDU  year = 2008  legacy = DRAW, calculation = 401.6
+Fiction: name = PBPUo  year = 2009  director = uWdYozIOC , quotient = 401.8
+Documentary: name = TTUZB  year = 2009  duration = 78 , calculation = 401.8
+Fiction: name = JrznI  year = 2011  director = PcYHVYNe , quotient = 402.2
+Documentary: name = RRDvZ  year = 2012  duration = 83 , calculation = 402.4
+Fiction: name = sDKIR  year = 2014  director = ZbpuetbFJ , quotient = 402.8
+Documentary: name = XYDUi  year = 2014  duration = 42 , calculation = 402.8
+Fiction: name = arpbE  year = 2014  director = GbsRsPMRn , quotient = 402.8
+Cartoon: name = REDtj  year = 2015  legacy = DRAW, calculation = 403.0
+Cartoon: name = IcuMx  year = 2015  legacy = DRAW, calculation = 403.0
+Cartoon: name = rXOSg  year = 2016  legacy = PUPPET, calculation = 403.2
+Cartoon: name = FVter  year = 2016  legacy = DRAW, calculation = 403.2
+Cartoon: name = hlMqg  year = 2016  legacy = PLASTICINE, calculation = 403.2
+Documentary: name = EbNgb  year = 2016  duration = 69 , calculation = 403.2
+Fiction: name = wMZgx  year = 2017  director = CqczDCw , quotient = 403.4
+Cartoon: name = RxiIl  year = 2017  legacy = DRAW, calculation = 403.4
+Documentary: name = VcbGi  year = 2017  duration = 82 , calculation = 403.4
+Cartoon: name = sfZRL  year = 2018  legacy = DRAW, calculation = 403.6
+

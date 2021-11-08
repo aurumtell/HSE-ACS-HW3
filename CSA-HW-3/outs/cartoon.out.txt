@@ -1,0 +1,12 @@
+Container is store 10 languages:
+Cartoon: name = movie8  year = 1234  legacy = PLASTICINE, calculation = 205.67
+Cartoon: name = movie9  year = 1524  legacy = DRAW, calculation = 254.0
+Cartoon: name = movie4  year = 1956  legacy = PUPPET, calculation = 326.0
+Cartoon: name = movie1  year = 2031  legacy = DRAW, calculation = 338.5
+Cartoon: name = movie7  year = 2352  legacy = PUPPET, calculation = 392.0
+Cartoon: name = movie5  year = 2411  legacy = PLASTICINE, calculation = 401.83
+Cartoon: name = movie2  year = 2931  legacy = PUPPET, calculation = 488.5
+Cartoon: name = movie3  year = 5433  legacy = PLASTICINE, calculation = 905.5
+Cartoon: name = movie10  year = 7452  legacy = PUPPET, calculation = 1064.57
+Cartoon: name = movie6  year = 9483  legacy = PLASTICINE, calculation = 1580.5
+

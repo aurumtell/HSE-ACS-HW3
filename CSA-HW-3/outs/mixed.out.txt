@@ -1,0 +1,12 @@
+Container is store 10 languages:
+Documentary: name = movie10  year = 1252  duration = 200000 , calculation = 178.86
+Documentary: name = movie7  year = 1241  duration = 2350 , calculation = 206.83
+Documentary: name = movie4  year = 1400  duration = 200000 , calculation = 233.33
+Cartoon: name = movie5  year = 1400  legacy = PUPPET, calculation = 233.33
+Fiction: name = movie3  year = 1438  director = dfgdfgfd , quotient = 239.67
+Fiction: name = movie6  year = 1438  director = dfgdf , quotient = 239.67
+Fiction: name = movie9  year = 1438  director = werwe , quotient = 239.67
+Cartoon: name = movie2  year = 1940  legacy = DRAW, calculation = 323.33
+Fiction: name = movie1  year = 2031  director = dayana , quotient = 338.5
+Cartoon: name = movie8  year = 3252  legacy = PLASTICINE, calculation = 542.0
+

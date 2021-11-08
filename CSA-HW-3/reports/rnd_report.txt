@@ -1,0 +1,25 @@
+Random 10 elements
+[Start]
+Source:  0.04002  seconds
+Sorted:  0.04103  seconds
+[Finish]
+
+
+Random 100 elements
+[Start]
+Source:  0.04298  seconds
+Sorted:  0.04997  seconds
+[Finish]
+
+
+Random 1000 elements
+[Start]
+Source:  1.1583  seconds
+Sorted:  1.83793  seconds
+[Finish]
+
+Random 10 000 elements
+[Start]
+Source:  90.48658  seconds
+Sorted:  161.41954  seconds
+[Finish]

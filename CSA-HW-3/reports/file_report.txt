@@ -1,0 +1,26 @@
+Running documentary.txt
+[Start]
+Source:  0.004  seconds
+Sorted:  0.005  seconds
+[Finish]
+
+
+Running fiction.txt
+[Start]
+Source:  0.003  seconds
+Sorted:  0.003  seconds
+[Finish]
+
+
+Running cartoon.txt
+[Start]
+Source:  0.00199  seconds
+Sorted:  0.00299  seconds
+[Finish]
+
+
+Running mixed.txt
+[Start]
+Source:  0.002  seconds
+Sorted:  0.003  seconds
+[Finish]

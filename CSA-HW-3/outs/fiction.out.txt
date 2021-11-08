@@ -1,0 +1,12 @@
+Container is store 10 languages:
+Fiction: name = movie4  year = 1956  director = KJbsdmA , quotient = 326.0
+Fiction: name = movie9  year = 1956  director = JKHkjAJK , quotient = 326.0
+Fiction: name = movie1  year = 2031  director = kjmAS , quotient = 338.5
+Fiction: name = movie6  year = 2031  director = werwegvs , quotient = 338.5
+Fiction: name = movie10  year = 2411  director = KJabsdsa , quotient = 344.43
+Fiction: name = movie5  year = 2411  director = lsafAjn , quotient = 401.83
+Fiction: name = movie2  year = 2931  director = KSDN , quotient = 488.5
+Fiction: name = movie7  year = 2931  director = dfgdf , quotient = 488.5
+Fiction: name = movie3  year = 5433  director = kjALKKJ , quotient = 905.5
+Fiction: name = movie8  year = 5433  director = cvbdfgsd , quotient = 905.5
+
